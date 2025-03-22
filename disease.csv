@@ -1,101 +1,2001 @@
-Disease Name,Zone,Incidence Rate (per 1000 people),Severity Index (0-1)
-Influenza,Jakarta Selatan,66,0.67
-Diabetes,Jakarta Selatan,53,0.92
-Hypertension,Jakarta Selatan,85,0.26
-Tuberculosis,Jakarta Selatan,75,0.44
-Dengue Fever,Jakarta Selatan,37,0.83
-Pneumonia,Jakarta Selatan,135,0.75
-Asthma,Jakarta Selatan,111,0.42
-Hepatitis B,Jakarta Selatan,47,0.31
-Hepatitis C,Jakarta Selatan,59,0.86
-Covid-19,Jakarta Selatan,128,0.69
-Heart Disease,Jakarta Selatan,77,0.29
-Stroke,Jakarta Selatan,149,0.61
-Malaria,Jakarta Selatan,62,0.86
-Measles,Jakarta Selatan,147,0.73
-Chickenpox,Jakarta Selatan,30,0.95
-Chronic Kidney Disease,Jakarta Selatan,91,0.66
-Liver Cirrhosis,Jakarta Selatan,108,0.31
-Bronchitis,Jakarta Selatan,33,0.53
-Depression,Jakarta Selatan,129,0.99
-Anxiety,Jakarta Selatan,97,0.44
-Influenza,Jakarta Timur,133,0.52
-Diabetes,Jakarta Timur,43,0.89
-Hypertension,Jakarta Timur,20,0.88
-Tuberculosis,Jakarta Timur,91,0.36
-Dengue Fever,Jakarta Timur,134,0.63
-Pneumonia,Jakarta Timur,18,0.4
-Asthma,Jakarta Timur,68,0.4
-Hepatitis B,Jakarta Timur,134,0.4
-Hepatitis C,Jakarta Timur,148,0.44
-Covid-19,Jakarta Timur,68,0.83
-Heart Disease,Jakarta Timur,17,0.97
-Stroke,Jakarta Timur,118,0.85
-Malaria,Jakarta Timur,117,0.52
-Measles,Jakarta Timur,66,0.87
-Chickenpox,Jakarta Timur,15,0.42
-Chronic Kidney Disease,Jakarta Timur,133,0.77
-Liver Cirrhosis,Jakarta Timur,141,0.85
-Bronchitis,Jakarta Timur,78,0.55
-Depression,Jakarta Timur,96,0.78
-Anxiety,Jakarta Timur,46,0.55
-Influenza,Depok,60,0.51
-Diabetes,Depok,108,0.84
-Hypertension,Depok,20,0.72
-Tuberculosis,Depok,22,0.48
-Dengue Fever,Depok,69,0.74
-Pneumonia,Depok,14,0.8
-Asthma,Depok,21,0.42
-Hepatitis B,Depok,94,0.88
-Hepatitis C,Depok,126,0.81
-Covid-19,Depok,50,0.37
-Heart Disease,Depok,127,0.43
-Stroke,Depok,55,0.96
-Malaria,Depok,47,0.28
-Measles,Depok,139,0.8
-Chickenpox,Depok,22,0.38
-Chronic Kidney Disease,Depok,146,0.65
-Liver Cirrhosis,Depok,139,0.88
-Bronchitis,Depok,66,0.55
-Depression,Depok,116,0.72
-Anxiety,Depok,23,0.36
-Influenza,Bekasi,136,0.38
-Diabetes,Bekasi,67,0.39
-Hypertension,Bekasi,146,0.77
-Tuberculosis,Bekasi,13,0.66
-Dengue Fever,Bekasi,108,0.53
-Pneumonia,Bekasi,102,0.47
-Asthma,Bekasi,13,0.66
-Hepatitis B,Bekasi,16,0.83
-Hepatitis C,Bekasi,94,0.36
-Covid-19,Bekasi,132,0.7
-Heart Disease,Bekasi,104,0.63
-Stroke,Bekasi,111,0.86
-Malaria,Bekasi,126,0.88
-Measles,Bekasi,74,0.91
-Chickenpox,Bekasi,81,0.67
-Chronic Kidney Disease,Bekasi,28,0.49
-Liver Cirrhosis,Bekasi,25,0.96
-Bronchitis,Bekasi,117,0.37
-Depression,Bekasi,37,0.71
-Anxiety,Bekasi,18,0.47
-Influenza,Tangerang,54,0.25
-Diabetes,Tangerang,39,0.25
-Hypertension,Tangerang,100,0.31
-Tuberculosis,Tangerang,83,0.48
-Dengue Fever,Tangerang,143,0.52
-Pneumonia,Tangerang,16,0.9
-Asthma,Tangerang,94,0.94
-Hepatitis B,Tangerang,40,0.69
-Hepatitis C,Tangerang,148,0.56
-Covid-19,Tangerang,73,0.5
-Heart Disease,Tangerang,65,0.71
-Stroke,Tangerang,47,0.49
-Malaria,Tangerang,11,0.87
-Measles,Tangerang,49,0.83
-Chickenpox,Tangerang,134,0.22
-Chronic Kidney Disease,Tangerang,56,0.38
-Liver Cirrhosis,Tangerang,141,0.27
-Bronchitis,Tangerang,100,0.56
-Depression,Tangerang,139,0.34
-Anxiety,Tangerang,58,0.8
+Disease ID,Disease Name,Zone,Incidence Rate (per 1000 people),Severity Index (0-1),Timestamp
+D001,Influenza,Jakarta Selatan,73,0.32,2025-03-23
+D001,Influenza,Jakarta Selatan,130,0.82,2025-03-18
+D001,Influenza,Jakarta Selatan,64,0.31,2025-03-13
+D001,Influenza,Jakarta Selatan,13,0.39,2025-03-08
+D001,Influenza,Jakarta Selatan,57,0.78,2025-03-03
+D001,Influenza,Jakarta Selatan,35,0.57,2025-02-26
+D001,Influenza,Jakarta Selatan,106,0.27,2025-02-21
+D001,Influenza,Jakarta Selatan,21,0.81,2025-02-16
+D001,Influenza,Jakarta Selatan,18,0.34,2025-02-11
+D001,Influenza,Jakarta Selatan,80,0.74,2025-02-06
+D001,Influenza,Jakarta Selatan,113,0.92,2025-02-01
+D001,Influenza,Jakarta Selatan,19,0.53,2025-01-27
+D001,Influenza,Jakarta Selatan,53,0.85,2025-01-22
+D001,Influenza,Jakarta Selatan,31,0.94,2025-01-17
+D001,Influenza,Jakarta Selatan,91,0.29,2025-01-12
+D001,Influenza,Jakarta Selatan,61,0.24,2025-01-07
+D001,Influenza,Jakarta Selatan,121,0.95,2025-01-02
+D001,Influenza,Jakarta Selatan,47,0.24,2024-12-28
+D001,Influenza,Jakarta Selatan,87,0.81,2024-12-23
+D001,Influenza,Jakarta Selatan,110,0.21,2024-12-18
+D002,Diabetes,Jakarta Selatan,116,0.26,2025-03-23
+D002,Diabetes,Jakarta Selatan,93,0.46,2025-03-18
+D002,Diabetes,Jakarta Selatan,104,0.62,2025-03-13
+D002,Diabetes,Jakarta Selatan,86,0.47,2025-03-08
+D002,Diabetes,Jakarta Selatan,88,0.22,2025-03-03
+D002,Diabetes,Jakarta Selatan,92,0.47,2025-02-26
+D002,Diabetes,Jakarta Selatan,26,0.34,2025-02-21
+D002,Diabetes,Jakarta Selatan,141,0.67,2025-02-16
+D002,Diabetes,Jakarta Selatan,15,0.99,2025-02-11
+D002,Diabetes,Jakarta Selatan,84,0.93,2025-02-06
+D002,Diabetes,Jakarta Selatan,57,0.29,2025-02-01
+D002,Diabetes,Jakarta Selatan,95,0.42,2025-01-27
+D002,Diabetes,Jakarta Selatan,133,0.82,2025-01-22
+D002,Diabetes,Jakarta Selatan,92,0.75,2025-01-17
+D002,Diabetes,Jakarta Selatan,109,0.71,2025-01-12
+D002,Diabetes,Jakarta Selatan,148,0.57,2025-01-07
+D002,Diabetes,Jakarta Selatan,22,0.64,2025-01-02
+D002,Diabetes,Jakarta Selatan,89,0.44,2024-12-28
+D002,Diabetes,Jakarta Selatan,72,0.75,2024-12-23
+D002,Diabetes,Jakarta Selatan,26,0.48,2024-12-18
+D003,Hypertension,Jakarta Selatan,144,0.93,2025-03-23
+D003,Hypertension,Jakarta Selatan,88,0.34,2025-03-18
+D003,Hypertension,Jakarta Selatan,26,0.82,2025-03-13
+D003,Hypertension,Jakarta Selatan,93,0.35,2025-03-08
+D003,Hypertension,Jakarta Selatan,18,0.96,2025-03-03
+D003,Hypertension,Jakarta Selatan,84,0.32,2025-02-26
+D003,Hypertension,Jakarta Selatan,81,0.99,2025-02-21
+D003,Hypertension,Jakarta Selatan,32,0.74,2025-02-16
+D003,Hypertension,Jakarta Selatan,47,0.56,2025-02-11
+D003,Hypertension,Jakarta Selatan,77,0.51,2025-02-06
+D003,Hypertension,Jakarta Selatan,128,0.55,2025-02-01
+D003,Hypertension,Jakarta Selatan,121,0.81,2025-01-27
+D003,Hypertension,Jakarta Selatan,61,0.28,2025-01-22
+D003,Hypertension,Jakarta Selatan,70,0.68,2025-01-17
+D003,Hypertension,Jakarta Selatan,65,0.52,2025-01-12
+D003,Hypertension,Jakarta Selatan,48,0.64,2025-01-07
+D003,Hypertension,Jakarta Selatan,149,0.3,2025-01-02
+D003,Hypertension,Jakarta Selatan,17,0.63,2024-12-28
+D003,Hypertension,Jakarta Selatan,110,0.84,2024-12-23
+D003,Hypertension,Jakarta Selatan,103,0.58,2024-12-18
+D004,Tuberculosis,Jakarta Selatan,89,0.66,2025-03-23
+D004,Tuberculosis,Jakarta Selatan,131,0.65,2025-03-18
+D004,Tuberculosis,Jakarta Selatan,52,0.34,2025-03-13
+D004,Tuberculosis,Jakarta Selatan,136,0.75,2025-03-08
+D004,Tuberculosis,Jakarta Selatan,78,0.49,2025-03-03
+D004,Tuberculosis,Jakarta Selatan,56,0.79,2025-02-26
+D004,Tuberculosis,Jakarta Selatan,86,0.64,2025-02-21
+D004,Tuberculosis,Jakarta Selatan,132,0.69,2025-02-16
+D004,Tuberculosis,Jakarta Selatan,64,0.87,2025-02-11
+D004,Tuberculosis,Jakarta Selatan,27,0.5,2025-02-06
+D004,Tuberculosis,Jakarta Selatan,50,0.26,2025-02-01
+D004,Tuberculosis,Jakarta Selatan,52,0.72,2025-01-27
+D004,Tuberculosis,Jakarta Selatan,67,0.58,2025-01-22
+D004,Tuberculosis,Jakarta Selatan,37,0.44,2025-01-17
+D004,Tuberculosis,Jakarta Selatan,83,0.48,2025-01-12
+D004,Tuberculosis,Jakarta Selatan,23,0.62,2025-01-07
+D004,Tuberculosis,Jakarta Selatan,33,0.74,2025-01-02
+D004,Tuberculosis,Jakarta Selatan,79,0.67,2024-12-28
+D004,Tuberculosis,Jakarta Selatan,130,0.87,2024-12-23
+D004,Tuberculosis,Jakarta Selatan,80,0.28,2024-12-18
+D005,Dengue Fever,Jakarta Selatan,25,0.84,2025-03-23
+D005,Dengue Fever,Jakarta Selatan,32,0.92,2025-03-18
+D005,Dengue Fever,Jakarta Selatan,59,0.96,2025-03-13
+D005,Dengue Fever,Jakarta Selatan,24,0.84,2025-03-08
+D005,Dengue Fever,Jakarta Selatan,57,0.75,2025-03-03
+D005,Dengue Fever,Jakarta Selatan,11,0.69,2025-02-26
+D005,Dengue Fever,Jakarta Selatan,77,0.55,2025-02-21
+D005,Dengue Fever,Jakarta Selatan,76,0.54,2025-02-16
+D005,Dengue Fever,Jakarta Selatan,121,0.37,2025-02-11
+D005,Dengue Fever,Jakarta Selatan,131,0.66,2025-02-06
+D005,Dengue Fever,Jakarta Selatan,53,0.53,2025-02-01
+D005,Dengue Fever,Jakarta Selatan,136,0.93,2025-01-27
+D005,Dengue Fever,Jakarta Selatan,50,0.74,2025-01-22
+D005,Dengue Fever,Jakarta Selatan,116,0.71,2025-01-17
+D005,Dengue Fever,Jakarta Selatan,37,0.63,2025-01-12
+D005,Dengue Fever,Jakarta Selatan,138,0.79,2025-01-07
+D005,Dengue Fever,Jakarta Selatan,10,0.33,2025-01-02
+D005,Dengue Fever,Jakarta Selatan,128,0.89,2024-12-28
+D005,Dengue Fever,Jakarta Selatan,125,0.73,2024-12-23
+D005,Dengue Fever,Jakarta Selatan,36,0.76,2024-12-18
+D006,Pneumonia,Jakarta Selatan,133,0.42,2025-03-23
+D006,Pneumonia,Jakarta Selatan,139,0.52,2025-03-18
+D006,Pneumonia,Jakarta Selatan,75,0.24,2025-03-13
+D006,Pneumonia,Jakarta Selatan,28,0.94,2025-03-08
+D006,Pneumonia,Jakarta Selatan,28,0.86,2025-03-03
+D006,Pneumonia,Jakarta Selatan,73,0.91,2025-02-26
+D006,Pneumonia,Jakarta Selatan,88,0.87,2025-02-21
+D006,Pneumonia,Jakarta Selatan,14,0.23,2025-02-16
+D006,Pneumonia,Jakarta Selatan,135,0.91,2025-02-11
+D006,Pneumonia,Jakarta Selatan,149,0.43,2025-02-06
+D006,Pneumonia,Jakarta Selatan,69,0.93,2025-02-01
+D006,Pneumonia,Jakarta Selatan,123,0.5,2025-01-27
+D006,Pneumonia,Jakarta Selatan,22,0.44,2025-01-22
+D006,Pneumonia,Jakarta Selatan,141,0.49,2025-01-17
+D006,Pneumonia,Jakarta Selatan,134,0.36,2025-01-12
+D006,Pneumonia,Jakarta Selatan,19,0.22,2025-01-07
+D006,Pneumonia,Jakarta Selatan,10,0.81,2025-01-02
+D006,Pneumonia,Jakarta Selatan,55,0.87,2024-12-28
+D006,Pneumonia,Jakarta Selatan,73,0.37,2024-12-23
+D006,Pneumonia,Jakarta Selatan,96,0.32,2024-12-18
+D007,Asthma,Jakarta Selatan,70,0.21,2025-03-23
+D007,Asthma,Jakarta Selatan,29,0.28,2025-03-18
+D007,Asthma,Jakarta Selatan,85,0.7,2025-03-13
+D007,Asthma,Jakarta Selatan,116,0.75,2025-03-08
+D007,Asthma,Jakarta Selatan,66,0.9,2025-03-03
+D007,Asthma,Jakarta Selatan,95,0.5,2025-02-26
+D007,Asthma,Jakarta Selatan,76,0.26,2025-02-21
+D007,Asthma,Jakarta Selatan,20,0.82,2025-02-16
+D007,Asthma,Jakarta Selatan,96,0.53,2025-02-11
+D007,Asthma,Jakarta Selatan,107,0.22,2025-02-06
+D007,Asthma,Jakarta Selatan,142,0.37,2025-02-01
+D007,Asthma,Jakarta Selatan,90,0.78,2025-01-27
+D007,Asthma,Jakarta Selatan,74,0.25,2025-01-22
+D007,Asthma,Jakarta Selatan,99,0.53,2025-01-17
+D007,Asthma,Jakarta Selatan,53,0.81,2025-01-12
+D007,Asthma,Jakarta Selatan,100,0.48,2025-01-07
+D007,Asthma,Jakarta Selatan,53,0.63,2025-01-02
+D007,Asthma,Jakarta Selatan,106,0.75,2024-12-28
+D007,Asthma,Jakarta Selatan,94,0.88,2024-12-23
+D007,Asthma,Jakarta Selatan,93,0.54,2024-12-18
+D008,Hepatitis B,Jakarta Selatan,101,0.39,2025-03-23
+D008,Hepatitis B,Jakarta Selatan,40,0.43,2025-03-18
+D008,Hepatitis B,Jakarta Selatan,104,0.48,2025-03-13
+D008,Hepatitis B,Jakarta Selatan,11,0.47,2025-03-08
+D008,Hepatitis B,Jakarta Selatan,137,0.3,2025-03-03
+D008,Hepatitis B,Jakarta Selatan,33,0.7,2025-02-26
+D008,Hepatitis B,Jakarta Selatan,51,0.99,2025-02-21
+D008,Hepatitis B,Jakarta Selatan,22,0.73,2025-02-16
+D008,Hepatitis B,Jakarta Selatan,68,0.34,2025-02-11
+D008,Hepatitis B,Jakarta Selatan,13,0.75,2025-02-06
+D008,Hepatitis B,Jakarta Selatan,50,0.62,2025-02-01
+D008,Hepatitis B,Jakarta Selatan,100,0.63,2025-01-27
+D008,Hepatitis B,Jakarta Selatan,144,0.4,2025-01-22
+D008,Hepatitis B,Jakarta Selatan,56,0.49,2025-01-17
+D008,Hepatitis B,Jakarta Selatan,75,0.79,2025-01-12
+D008,Hepatitis B,Jakarta Selatan,142,0.29,2025-01-07
+D008,Hepatitis B,Jakarta Selatan,70,0.42,2025-01-02
+D008,Hepatitis B,Jakarta Selatan,137,0.53,2024-12-28
+D008,Hepatitis B,Jakarta Selatan,149,0.45,2024-12-23
+D008,Hepatitis B,Jakarta Selatan,18,0.48,2024-12-18
+D009,Hepatitis C,Jakarta Selatan,96,0.87,2025-03-23
+D009,Hepatitis C,Jakarta Selatan,31,0.33,2025-03-18
+D009,Hepatitis C,Jakarta Selatan,65,0.74,2025-03-13
+D009,Hepatitis C,Jakarta Selatan,14,0.88,2025-03-08
+D009,Hepatitis C,Jakarta Selatan,24,0.8,2025-03-03
+D009,Hepatitis C,Jakarta Selatan,35,0.69,2025-02-26
+D009,Hepatitis C,Jakarta Selatan,112,0.76,2025-02-21
+D009,Hepatitis C,Jakarta Selatan,66,0.37,2025-02-16
+D009,Hepatitis C,Jakarta Selatan,57,0.81,2025-02-11
+D009,Hepatitis C,Jakarta Selatan,44,0.37,2025-02-06
+D009,Hepatitis C,Jakarta Selatan,80,0.24,2025-02-01
+D009,Hepatitis C,Jakarta Selatan,53,0.92,2025-01-27
+D009,Hepatitis C,Jakarta Selatan,123,0.31,2025-01-22
+D009,Hepatitis C,Jakarta Selatan,72,0.33,2025-01-17
+D009,Hepatitis C,Jakarta Selatan,94,0.51,2025-01-12
+D009,Hepatitis C,Jakarta Selatan,107,0.73,2025-01-07
+D009,Hepatitis C,Jakarta Selatan,22,0.56,2025-01-02
+D009,Hepatitis C,Jakarta Selatan,79,0.85,2024-12-28
+D009,Hepatitis C,Jakarta Selatan,29,0.55,2024-12-23
+D009,Hepatitis C,Jakarta Selatan,71,0.5,2024-12-18
+D010,Covid-19,Jakarta Selatan,145,0.87,2025-03-23
+D010,Covid-19,Jakarta Selatan,101,0.28,2025-03-18
+D010,Covid-19,Jakarta Selatan,114,0.39,2025-03-13
+D010,Covid-19,Jakarta Selatan,111,0.25,2025-03-08
+D010,Covid-19,Jakarta Selatan,136,0.71,2025-03-03
+D010,Covid-19,Jakarta Selatan,60,0.8,2025-02-26
+D010,Covid-19,Jakarta Selatan,73,0.25,2025-02-21
+D010,Covid-19,Jakarta Selatan,84,0.28,2025-02-16
+D010,Covid-19,Jakarta Selatan,108,0.5,2025-02-11
+D010,Covid-19,Jakarta Selatan,75,0.59,2025-02-06
+D010,Covid-19,Jakarta Selatan,116,0.49,2025-02-01
+D010,Covid-19,Jakarta Selatan,87,0.92,2025-01-27
+D010,Covid-19,Jakarta Selatan,102,0.53,2025-01-22
+D010,Covid-19,Jakarta Selatan,43,0.84,2025-01-17
+D010,Covid-19,Jakarta Selatan,56,0.54,2025-01-12
+D010,Covid-19,Jakarta Selatan,137,0.83,2025-01-07
+D010,Covid-19,Jakarta Selatan,93,0.59,2025-01-02
+D010,Covid-19,Jakarta Selatan,106,0.4,2024-12-28
+D010,Covid-19,Jakarta Selatan,117,0.92,2024-12-23
+D010,Covid-19,Jakarta Selatan,64,0.36,2024-12-18
+D011,Heart Disease,Jakarta Selatan,79,0.76,2025-03-23
+D011,Heart Disease,Jakarta Selatan,63,0.99,2025-03-18
+D011,Heart Disease,Jakarta Selatan,55,0.31,2025-03-13
+D011,Heart Disease,Jakarta Selatan,143,0.42,2025-03-08
+D011,Heart Disease,Jakarta Selatan,26,0.33,2025-03-03
+D011,Heart Disease,Jakarta Selatan,102,0.78,2025-02-26
+D011,Heart Disease,Jakarta Selatan,105,0.76,2025-02-21
+D011,Heart Disease,Jakarta Selatan,92,0.44,2025-02-16
+D011,Heart Disease,Jakarta Selatan,71,0.6,2025-02-11
+D011,Heart Disease,Jakarta Selatan,68,0.93,2025-02-06
+D011,Heart Disease,Jakarta Selatan,64,0.82,2025-02-01
+D011,Heart Disease,Jakarta Selatan,57,0.97,2025-01-27
+D011,Heart Disease,Jakarta Selatan,93,0.5,2025-01-22
+D011,Heart Disease,Jakarta Selatan,68,0.29,2025-01-17
+D011,Heart Disease,Jakarta Selatan,69,0.88,2025-01-12
+D011,Heart Disease,Jakarta Selatan,75,0.28,2025-01-07
+D011,Heart Disease,Jakarta Selatan,80,0.51,2025-01-02
+D011,Heart Disease,Jakarta Selatan,66,0.45,2024-12-28
+D011,Heart Disease,Jakarta Selatan,130,0.75,2024-12-23
+D011,Heart Disease,Jakarta Selatan,71,0.92,2024-12-18
+D012,Stroke,Jakarta Selatan,70,0.83,2025-03-23
+D012,Stroke,Jakarta Selatan,86,0.49,2025-03-18
+D012,Stroke,Jakarta Selatan,111,0.99,2025-03-13
+D012,Stroke,Jakarta Selatan,121,0.28,2025-03-08
+D012,Stroke,Jakarta Selatan,129,0.77,2025-03-03
+D012,Stroke,Jakarta Selatan,24,0.74,2025-02-26
+D012,Stroke,Jakarta Selatan,13,0.76,2025-02-21
+D012,Stroke,Jakarta Selatan,17,0.62,2025-02-16
+D012,Stroke,Jakarta Selatan,67,0.51,2025-02-11
+D012,Stroke,Jakarta Selatan,33,0.99,2025-02-06
+D012,Stroke,Jakarta Selatan,55,0.21,2025-02-01
+D012,Stroke,Jakarta Selatan,51,0.86,2025-01-27
+D012,Stroke,Jakarta Selatan,109,0.87,2025-01-22
+D012,Stroke,Jakarta Selatan,43,0.28,2025-01-17
+D012,Stroke,Jakarta Selatan,31,0.23,2025-01-12
+D012,Stroke,Jakarta Selatan,12,0.71,2025-01-07
+D012,Stroke,Jakarta Selatan,56,0.5,2025-01-02
+D012,Stroke,Jakarta Selatan,124,0.6,2024-12-28
+D012,Stroke,Jakarta Selatan,75,0.35,2024-12-23
+D012,Stroke,Jakarta Selatan,98,0.75,2024-12-18
+D013,Malaria,Jakarta Selatan,122,0.78,2025-03-23
+D013,Malaria,Jakarta Selatan,70,0.66,2025-03-18
+D013,Malaria,Jakarta Selatan,128,0.3,2025-03-13
+D013,Malaria,Jakarta Selatan,91,0.95,2025-03-08
+D013,Malaria,Jakarta Selatan,146,0.97,2025-03-03
+D013,Malaria,Jakarta Selatan,12,0.49,2025-02-26
+D013,Malaria,Jakarta Selatan,100,0.6,2025-02-21
+D013,Malaria,Jakarta Selatan,62,0.9,2025-02-16
+D013,Malaria,Jakarta Selatan,51,0.72,2025-02-11
+D013,Malaria,Jakarta Selatan,78,0.31,2025-02-06
+D013,Malaria,Jakarta Selatan,101,0.77,2025-02-01
+D013,Malaria,Jakarta Selatan,134,0.62,2025-01-27
+D013,Malaria,Jakarta Selatan,124,0.31,2025-01-22
+D013,Malaria,Jakarta Selatan,135,0.92,2025-01-17
+D013,Malaria,Jakarta Selatan,89,0.57,2025-01-12
+D013,Malaria,Jakarta Selatan,68,0.93,2025-01-07
+D013,Malaria,Jakarta Selatan,72,0.96,2025-01-02
+D013,Malaria,Jakarta Selatan,86,0.79,2024-12-28
+D013,Malaria,Jakarta Selatan,108,0.44,2024-12-23
+D013,Malaria,Jakarta Selatan,47,0.53,2024-12-18
+D014,Measles,Jakarta Selatan,142,0.55,2025-03-23
+D014,Measles,Jakarta Selatan,66,0.85,2025-03-18
+D014,Measles,Jakarta Selatan,113,0.23,2025-03-13
+D014,Measles,Jakarta Selatan,75,0.93,2025-03-08
+D014,Measles,Jakarta Selatan,124,0.45,2025-03-03
+D014,Measles,Jakarta Selatan,60,0.72,2025-02-26
+D014,Measles,Jakarta Selatan,145,0.6,2025-02-21
+D014,Measles,Jakarta Selatan,48,0.77,2025-02-16
+D014,Measles,Jakarta Selatan,45,0.47,2025-02-11
+D014,Measles,Jakarta Selatan,106,0.39,2025-02-06
+D014,Measles,Jakarta Selatan,112,0.55,2025-02-01
+D014,Measles,Jakarta Selatan,122,0.25,2025-01-27
+D014,Measles,Jakarta Selatan,137,0.81,2025-01-22
+D014,Measles,Jakarta Selatan,144,0.67,2025-01-17
+D014,Measles,Jakarta Selatan,93,0.6,2025-01-12
+D014,Measles,Jakarta Selatan,109,0.5,2025-01-07
+D014,Measles,Jakarta Selatan,70,0.25,2025-01-02
+D014,Measles,Jakarta Selatan,38,0.7,2024-12-28
+D014,Measles,Jakarta Selatan,111,0.6,2024-12-23
+D014,Measles,Jakarta Selatan,90,0.59,2024-12-18
+D015,Chickenpox,Jakarta Selatan,125,0.57,2025-03-23
+D015,Chickenpox,Jakarta Selatan,11,0.38,2025-03-18
+D015,Chickenpox,Jakarta Selatan,99,0.24,2025-03-13
+D015,Chickenpox,Jakarta Selatan,71,0.54,2025-03-08
+D015,Chickenpox,Jakarta Selatan,19,0.53,2025-03-03
+D015,Chickenpox,Jakarta Selatan,119,0.66,2025-02-26
+D015,Chickenpox,Jakarta Selatan,70,0.5,2025-02-21
+D015,Chickenpox,Jakarta Selatan,92,0.66,2025-02-16
+D015,Chickenpox,Jakarta Selatan,134,0.22,2025-02-11
+D015,Chickenpox,Jakarta Selatan,94,0.54,2025-02-06
+D015,Chickenpox,Jakarta Selatan,41,0.29,2025-02-01
+D015,Chickenpox,Jakarta Selatan,29,0.76,2025-01-27
+D015,Chickenpox,Jakarta Selatan,73,0.71,2025-01-22
+D015,Chickenpox,Jakarta Selatan,35,0.72,2025-01-17
+D015,Chickenpox,Jakarta Selatan,143,0.91,2025-01-12
+D015,Chickenpox,Jakarta Selatan,95,0.45,2025-01-07
+D015,Chickenpox,Jakarta Selatan,137,0.88,2025-01-02
+D015,Chickenpox,Jakarta Selatan,73,0.63,2024-12-28
+D015,Chickenpox,Jakarta Selatan,69,0.96,2024-12-23
+D015,Chickenpox,Jakarta Selatan,147,0.65,2024-12-18
+D016,Chronic Kidney Disease,Jakarta Selatan,27,0.61,2025-03-23
+D016,Chronic Kidney Disease,Jakarta Selatan,88,0.22,2025-03-18
+D016,Chronic Kidney Disease,Jakarta Selatan,67,0.22,2025-03-13
+D016,Chronic Kidney Disease,Jakarta Selatan,127,0.99,2025-03-08
+D016,Chronic Kidney Disease,Jakarta Selatan,80,0.31,2025-03-03
+D016,Chronic Kidney Disease,Jakarta Selatan,97,0.9,2025-02-26
+D016,Chronic Kidney Disease,Jakarta Selatan,97,0.26,2025-02-21
+D016,Chronic Kidney Disease,Jakarta Selatan,48,0.92,2025-02-16
+D016,Chronic Kidney Disease,Jakarta Selatan,89,0.98,2025-02-11
+D016,Chronic Kidney Disease,Jakarta Selatan,90,0.72,2025-02-06
+D016,Chronic Kidney Disease,Jakarta Selatan,143,0.57,2025-02-01
+D016,Chronic Kidney Disease,Jakarta Selatan,48,0.5,2025-01-27
+D016,Chronic Kidney Disease,Jakarta Selatan,45,0.35,2025-01-22
+D016,Chronic Kidney Disease,Jakarta Selatan,92,0.44,2025-01-17
+D016,Chronic Kidney Disease,Jakarta Selatan,11,0.27,2025-01-12
+D016,Chronic Kidney Disease,Jakarta Selatan,138,0.55,2025-01-07
+D016,Chronic Kidney Disease,Jakarta Selatan,72,0.75,2025-01-02
+D016,Chronic Kidney Disease,Jakarta Selatan,54,0.62,2024-12-28
+D016,Chronic Kidney Disease,Jakarta Selatan,46,0.49,2024-12-23
+D016,Chronic Kidney Disease,Jakarta Selatan,143,0.83,2024-12-18
+D017,Liver Cirrhosis,Jakarta Selatan,147,0.62,2025-03-23
+D017,Liver Cirrhosis,Jakarta Selatan,11,0.67,2025-03-18
+D017,Liver Cirrhosis,Jakarta Selatan,36,0.82,2025-03-13
+D017,Liver Cirrhosis,Jakarta Selatan,112,0.6,2025-03-08
+D017,Liver Cirrhosis,Jakarta Selatan,114,0.35,2025-03-03
+D017,Liver Cirrhosis,Jakarta Selatan,34,0.97,2025-02-26
+D017,Liver Cirrhosis,Jakarta Selatan,20,0.59,2025-02-21
+D017,Liver Cirrhosis,Jakarta Selatan,46,0.39,2025-02-16
+D017,Liver Cirrhosis,Jakarta Selatan,18,0.71,2025-02-11
+D017,Liver Cirrhosis,Jakarta Selatan,136,0.27,2025-02-06
+D017,Liver Cirrhosis,Jakarta Selatan,79,0.23,2025-02-01
+D017,Liver Cirrhosis,Jakarta Selatan,135,0.5,2025-01-27
+D017,Liver Cirrhosis,Jakarta Selatan,52,0.29,2025-01-22
+D017,Liver Cirrhosis,Jakarta Selatan,51,0.73,2025-01-17
+D017,Liver Cirrhosis,Jakarta Selatan,145,0.96,2025-01-12
+D017,Liver Cirrhosis,Jakarta Selatan,14,0.38,2025-01-07
+D017,Liver Cirrhosis,Jakarta Selatan,146,0.67,2025-01-02
+D017,Liver Cirrhosis,Jakarta Selatan,16,0.36,2024-12-28
+D017,Liver Cirrhosis,Jakarta Selatan,64,0.81,2024-12-23
+D017,Liver Cirrhosis,Jakarta Selatan,78,0.68,2024-12-18
+D018,Bronchitis,Jakarta Selatan,120,0.64,2025-03-23
+D018,Bronchitis,Jakarta Selatan,113,0.94,2025-03-18
+D018,Bronchitis,Jakarta Selatan,101,0.33,2025-03-13
+D018,Bronchitis,Jakarta Selatan,37,0.84,2025-03-08
+D018,Bronchitis,Jakarta Selatan,115,0.2,2025-03-03
+D018,Bronchitis,Jakarta Selatan,110,0.26,2025-02-26
+D018,Bronchitis,Jakarta Selatan,110,0.96,2025-02-21
+D018,Bronchitis,Jakarta Selatan,130,0.61,2025-02-16
+D018,Bronchitis,Jakarta Selatan,31,0.3,2025-02-11
+D018,Bronchitis,Jakarta Selatan,52,0.92,2025-02-06
+D018,Bronchitis,Jakarta Selatan,27,0.21,2025-02-01
+D018,Bronchitis,Jakarta Selatan,85,0.93,2025-01-27
+D018,Bronchitis,Jakarta Selatan,91,0.36,2025-01-22
+D018,Bronchitis,Jakarta Selatan,149,0.76,2025-01-17
+D018,Bronchitis,Jakarta Selatan,135,0.63,2025-01-12
+D018,Bronchitis,Jakarta Selatan,89,0.97,2025-01-07
+D018,Bronchitis,Jakarta Selatan,92,0.78,2025-01-02
+D018,Bronchitis,Jakarta Selatan,16,0.87,2024-12-28
+D018,Bronchitis,Jakarta Selatan,87,0.72,2024-12-23
+D018,Bronchitis,Jakarta Selatan,71,0.29,2024-12-18
+D019,Depression,Jakarta Selatan,31,0.2,2025-03-23
+D019,Depression,Jakarta Selatan,148,0.82,2025-03-18
+D019,Depression,Jakarta Selatan,13,0.51,2025-03-13
+D019,Depression,Jakarta Selatan,127,0.84,2025-03-08
+D019,Depression,Jakarta Selatan,86,0.4,2025-03-03
+D019,Depression,Jakarta Selatan,124,0.24,2025-02-26
+D019,Depression,Jakarta Selatan,70,0.5,2025-02-21
+D019,Depression,Jakarta Selatan,88,0.45,2025-02-16
+D019,Depression,Jakarta Selatan,75,0.51,2025-02-11
+D019,Depression,Jakarta Selatan,85,0.31,2025-02-06
+D019,Depression,Jakarta Selatan,16,0.35,2025-02-01
+D019,Depression,Jakarta Selatan,115,0.82,2025-01-27
+D019,Depression,Jakarta Selatan,39,0.8,2025-01-22
+D019,Depression,Jakarta Selatan,98,0.53,2025-01-17
+D019,Depression,Jakarta Selatan,82,0.23,2025-01-12
+D019,Depression,Jakarta Selatan,75,0.87,2025-01-07
+D019,Depression,Jakarta Selatan,58,0.4,2025-01-02
+D019,Depression,Jakarta Selatan,11,0.8,2024-12-28
+D019,Depression,Jakarta Selatan,55,0.58,2024-12-23
+D019,Depression,Jakarta Selatan,41,0.91,2024-12-18
+D020,Anxiety,Jakarta Selatan,86,0.64,2025-03-23
+D020,Anxiety,Jakarta Selatan,43,0.27,2025-03-18
+D020,Anxiety,Jakarta Selatan,74,0.47,2025-03-13
+D020,Anxiety,Jakarta Selatan,52,0.88,2025-03-08
+D020,Anxiety,Jakarta Selatan,127,0.35,2025-03-03
+D020,Anxiety,Jakarta Selatan,32,0.51,2025-02-26
+D020,Anxiety,Jakarta Selatan,50,0.47,2025-02-21
+D020,Anxiety,Jakarta Selatan,99,0.78,2025-02-16
+D020,Anxiety,Jakarta Selatan,61,0.4,2025-02-11
+D020,Anxiety,Jakarta Selatan,140,0.69,2025-02-06
+D020,Anxiety,Jakarta Selatan,128,0.74,2025-02-01
+D020,Anxiety,Jakarta Selatan,77,0.82,2025-01-27
+D020,Anxiety,Jakarta Selatan,68,0.86,2025-01-22
+D020,Anxiety,Jakarta Selatan,71,0.75,2025-01-17
+D020,Anxiety,Jakarta Selatan,12,0.91,2025-01-12
+D020,Anxiety,Jakarta Selatan,74,0.84,2025-01-07
+D020,Anxiety,Jakarta Selatan,86,0.4,2025-01-02
+D020,Anxiety,Jakarta Selatan,105,0.65,2024-12-28
+D020,Anxiety,Jakarta Selatan,71,0.74,2024-12-23
+D020,Anxiety,Jakarta Selatan,23,0.96,2024-12-18
+D001,Influenza,Jakarta Timur,15,0.28,2025-03-23
+D001,Influenza,Jakarta Timur,28,0.57,2025-03-18
+D001,Influenza,Jakarta Timur,112,0.81,2025-03-13
+D001,Influenza,Jakarta Timur,91,0.35,2025-03-08
+D001,Influenza,Jakarta Timur,18,0.58,2025-03-03
+D001,Influenza,Jakarta Timur,138,0.34,2025-02-26
+D001,Influenza,Jakarta Timur,102,0.79,2025-02-21
+D001,Influenza,Jakarta Timur,108,0.31,2025-02-16
+D001,Influenza,Jakarta Timur,44,0.45,2025-02-11
+D001,Influenza,Jakarta Timur,37,0.44,2025-02-06
+D001,Influenza,Jakarta Timur,78,0.62,2025-02-01
+D001,Influenza,Jakarta Timur,119,0.38,2025-01-27
+D001,Influenza,Jakarta Timur,24,0.52,2025-01-22
+D001,Influenza,Jakarta Timur,29,0.27,2025-01-17
+D001,Influenza,Jakarta Timur,77,0.66,2025-01-12
+D001,Influenza,Jakarta Timur,42,0.41,2025-01-07
+D001,Influenza,Jakarta Timur,78,0.5,2025-01-02
+D001,Influenza,Jakarta Timur,119,0.69,2024-12-28
+D001,Influenza,Jakarta Timur,143,0.77,2024-12-23
+D001,Influenza,Jakarta Timur,18,0.83,2024-12-18
+D002,Diabetes,Jakarta Timur,28,0.83,2025-03-23
+D002,Diabetes,Jakarta Timur,94,0.34,2025-03-18
+D002,Diabetes,Jakarta Timur,144,0.74,2025-03-13
+D002,Diabetes,Jakarta Timur,101,0.79,2025-03-08
+D002,Diabetes,Jakarta Timur,99,0.73,2025-03-03
+D002,Diabetes,Jakarta Timur,58,0.42,2025-02-26
+D002,Diabetes,Jakarta Timur,43,0.34,2025-02-21
+D002,Diabetes,Jakarta Timur,146,0.7,2025-02-16
+D002,Diabetes,Jakarta Timur,77,0.49,2025-02-11
+D002,Diabetes,Jakarta Timur,149,0.63,2025-02-06
+D002,Diabetes,Jakarta Timur,88,0.6,2025-02-01
+D002,Diabetes,Jakarta Timur,142,0.89,2025-01-27
+D002,Diabetes,Jakarta Timur,110,0.57,2025-01-22
+D002,Diabetes,Jakarta Timur,43,0.91,2025-01-17
+D002,Diabetes,Jakarta Timur,77,0.53,2025-01-12
+D002,Diabetes,Jakarta Timur,55,0.62,2025-01-07
+D002,Diabetes,Jakarta Timur,54,0.45,2025-01-02
+D002,Diabetes,Jakarta Timur,11,0.44,2024-12-28
+D002,Diabetes,Jakarta Timur,29,0.67,2024-12-23
+D002,Diabetes,Jakarta Timur,47,0.84,2024-12-18
+D003,Hypertension,Jakarta Timur,146,0.62,2025-03-23
+D003,Hypertension,Jakarta Timur,145,0.86,2025-03-18
+D003,Hypertension,Jakarta Timur,17,0.83,2025-03-13
+D003,Hypertension,Jakarta Timur,43,0.6,2025-03-08
+D003,Hypertension,Jakarta Timur,27,0.99,2025-03-03
+D003,Hypertension,Jakarta Timur,24,0.75,2025-02-26
+D003,Hypertension,Jakarta Timur,130,0.98,2025-02-21
+D003,Hypertension,Jakarta Timur,80,0.44,2025-02-16
+D003,Hypertension,Jakarta Timur,123,0.21,2025-02-11
+D003,Hypertension,Jakarta Timur,22,0.28,2025-02-06
+D003,Hypertension,Jakarta Timur,146,0.45,2025-02-01
+D003,Hypertension,Jakarta Timur,76,0.92,2025-01-27
+D003,Hypertension,Jakarta Timur,41,0.26,2025-01-22
+D003,Hypertension,Jakarta Timur,114,0.3,2025-01-17
+D003,Hypertension,Jakarta Timur,138,0.22,2025-01-12
+D003,Hypertension,Jakarta Timur,115,0.26,2025-01-07
+D003,Hypertension,Jakarta Timur,78,0.98,2025-01-02
+D003,Hypertension,Jakarta Timur,70,0.87,2024-12-28
+D003,Hypertension,Jakarta Timur,16,0.93,2024-12-23
+D003,Hypertension,Jakarta Timur,79,0.21,2024-12-18
+D004,Tuberculosis,Jakarta Timur,63,0.95,2025-03-23
+D004,Tuberculosis,Jakarta Timur,75,0.2,2025-03-18
+D004,Tuberculosis,Jakarta Timur,12,0.56,2025-03-13
+D004,Tuberculosis,Jakarta Timur,38,0.43,2025-03-08
+D004,Tuberculosis,Jakarta Timur,19,0.38,2025-03-03
+D004,Tuberculosis,Jakarta Timur,82,0.27,2025-02-26
+D004,Tuberculosis,Jakarta Timur,110,0.51,2025-02-21
+D004,Tuberculosis,Jakarta Timur,11,0.86,2025-02-16
+D004,Tuberculosis,Jakarta Timur,132,0.45,2025-02-11
+D004,Tuberculosis,Jakarta Timur,125,0.2,2025-02-06
+D004,Tuberculosis,Jakarta Timur,139,0.58,2025-02-01
+D004,Tuberculosis,Jakarta Timur,49,0.97,2025-01-27
+D004,Tuberculosis,Jakarta Timur,132,0.22,2025-01-22
+D004,Tuberculosis,Jakarta Timur,36,0.64,2025-01-17
+D004,Tuberculosis,Jakarta Timur,53,0.26,2025-01-12
+D004,Tuberculosis,Jakarta Timur,64,0.46,2025-01-07
+D004,Tuberculosis,Jakarta Timur,21,0.38,2025-01-02
+D004,Tuberculosis,Jakarta Timur,15,0.2,2024-12-28
+D004,Tuberculosis,Jakarta Timur,124,0.55,2024-12-23
+D004,Tuberculosis,Jakarta Timur,68,0.95,2024-12-18
+D005,Dengue Fever,Jakarta Timur,57,0.72,2025-03-23
+D005,Dengue Fever,Jakarta Timur,18,0.86,2025-03-18
+D005,Dengue Fever,Jakarta Timur,81,0.76,2025-03-13
+D005,Dengue Fever,Jakarta Timur,119,0.41,2025-03-08
+D005,Dengue Fever,Jakarta Timur,141,0.69,2025-03-03
+D005,Dengue Fever,Jakarta Timur,55,0.27,2025-02-26
+D005,Dengue Fever,Jakarta Timur,16,0.68,2025-02-21
+D005,Dengue Fever,Jakarta Timur,44,0.52,2025-02-16
+D005,Dengue Fever,Jakarta Timur,28,0.26,2025-02-11
+D005,Dengue Fever,Jakarta Timur,107,0.58,2025-02-06
+D005,Dengue Fever,Jakarta Timur,52,0.24,2025-02-01
+D005,Dengue Fever,Jakarta Timur,137,0.33,2025-01-27
+D005,Dengue Fever,Jakarta Timur,90,0.68,2025-01-22
+D005,Dengue Fever,Jakarta Timur,61,0.86,2025-01-17
+D005,Dengue Fever,Jakarta Timur,13,0.62,2025-01-12
+D005,Dengue Fever,Jakarta Timur,42,0.27,2025-01-07
+D005,Dengue Fever,Jakarta Timur,106,0.91,2025-01-02
+D005,Dengue Fever,Jakarta Timur,73,0.56,2024-12-28
+D005,Dengue Fever,Jakarta Timur,46,0.47,2024-12-23
+D005,Dengue Fever,Jakarta Timur,79,0.88,2024-12-18
+D006,Pneumonia,Jakarta Timur,123,0.7,2025-03-23
+D006,Pneumonia,Jakarta Timur,64,0.23,2025-03-18
+D006,Pneumonia,Jakarta Timur,132,1.0,2025-03-13
+D006,Pneumonia,Jakarta Timur,128,0.43,2025-03-08
+D006,Pneumonia,Jakarta Timur,70,0.82,2025-03-03
+D006,Pneumonia,Jakarta Timur,110,0.65,2025-02-26
+D006,Pneumonia,Jakarta Timur,87,0.34,2025-02-21
+D006,Pneumonia,Jakarta Timur,61,0.55,2025-02-16
+D006,Pneumonia,Jakarta Timur,125,0.9,2025-02-11
+D006,Pneumonia,Jakarta Timur,15,0.4,2025-02-06
+D006,Pneumonia,Jakarta Timur,99,0.89,2025-02-01
+D006,Pneumonia,Jakarta Timur,73,0.28,2025-01-27
+D006,Pneumonia,Jakarta Timur,80,0.87,2025-01-22
+D006,Pneumonia,Jakarta Timur,122,0.39,2025-01-17
+D006,Pneumonia,Jakarta Timur,145,0.38,2025-01-12
+D006,Pneumonia,Jakarta Timur,69,0.79,2025-01-07
+D006,Pneumonia,Jakarta Timur,104,0.79,2025-01-02
+D006,Pneumonia,Jakarta Timur,129,0.56,2024-12-28
+D006,Pneumonia,Jakarta Timur,76,0.28,2024-12-23
+D006,Pneumonia,Jakarta Timur,77,0.91,2024-12-18
+D007,Asthma,Jakarta Timur,107,0.72,2025-03-23
+D007,Asthma,Jakarta Timur,141,0.86,2025-03-18
+D007,Asthma,Jakarta Timur,27,0.98,2025-03-13
+D007,Asthma,Jakarta Timur,147,0.79,2025-03-08
+D007,Asthma,Jakarta Timur,32,0.75,2025-03-03
+D007,Asthma,Jakarta Timur,99,0.48,2025-02-26
+D007,Asthma,Jakarta Timur,140,0.74,2025-02-21
+D007,Asthma,Jakarta Timur,60,0.86,2025-02-16
+D007,Asthma,Jakarta Timur,41,0.49,2025-02-11
+D007,Asthma,Jakarta Timur,111,0.47,2025-02-06
+D007,Asthma,Jakarta Timur,87,0.63,2025-02-01
+D007,Asthma,Jakarta Timur,115,0.87,2025-01-27
+D007,Asthma,Jakarta Timur,42,0.48,2025-01-22
+D007,Asthma,Jakarta Timur,87,0.22,2025-01-17
+D007,Asthma,Jakarta Timur,66,0.48,2025-01-12
+D007,Asthma,Jakarta Timur,61,0.67,2025-01-07
+D007,Asthma,Jakarta Timur,77,0.51,2025-01-02
+D007,Asthma,Jakarta Timur,68,0.76,2024-12-28
+D007,Asthma,Jakarta Timur,48,0.93,2024-12-23
+D007,Asthma,Jakarta Timur,143,0.4,2024-12-18
+D008,Hepatitis B,Jakarta Timur,107,0.69,2025-03-23
+D008,Hepatitis B,Jakarta Timur,135,0.35,2025-03-18
+D008,Hepatitis B,Jakarta Timur,44,0.56,2025-03-13
+D008,Hepatitis B,Jakarta Timur,96,0.71,2025-03-08
+D008,Hepatitis B,Jakarta Timur,78,0.29,2025-03-03
+D008,Hepatitis B,Jakarta Timur,116,0.51,2025-02-26
+D008,Hepatitis B,Jakarta Timur,19,0.63,2025-02-21
+D008,Hepatitis B,Jakarta Timur,69,0.8,2025-02-16
+D008,Hepatitis B,Jakarta Timur,111,0.28,2025-02-11
+D008,Hepatitis B,Jakarta Timur,65,0.6,2025-02-06
+D008,Hepatitis B,Jakarta Timur,137,0.53,2025-02-01
+D008,Hepatitis B,Jakarta Timur,148,0.54,2025-01-27
+D008,Hepatitis B,Jakarta Timur,54,0.41,2025-01-22
+D008,Hepatitis B,Jakarta Timur,67,0.61,2025-01-17
+D008,Hepatitis B,Jakarta Timur,124,0.31,2025-01-12
+D008,Hepatitis B,Jakarta Timur,120,0.61,2025-01-07
+D008,Hepatitis B,Jakarta Timur,45,0.74,2025-01-02
+D008,Hepatitis B,Jakarta Timur,131,0.92,2024-12-28
+D008,Hepatitis B,Jakarta Timur,127,0.88,2024-12-23
+D008,Hepatitis B,Jakarta Timur,24,0.93,2024-12-18
+D009,Hepatitis C,Jakarta Timur,57,0.88,2025-03-23
+D009,Hepatitis C,Jakarta Timur,13,0.53,2025-03-18
+D009,Hepatitis C,Jakarta Timur,78,0.41,2025-03-13
+D009,Hepatitis C,Jakarta Timur,102,0.82,2025-03-08
+D009,Hepatitis C,Jakarta Timur,39,0.23,2025-03-03
+D009,Hepatitis C,Jakarta Timur,60,0.67,2025-02-26
+D009,Hepatitis C,Jakarta Timur,73,0.22,2025-02-21
+D009,Hepatitis C,Jakarta Timur,100,0.54,2025-02-16
+D009,Hepatitis C,Jakarta Timur,71,0.47,2025-02-11
+D009,Hepatitis C,Jakarta Timur,120,0.69,2025-02-06
+D009,Hepatitis C,Jakarta Timur,28,0.48,2025-02-01
+D009,Hepatitis C,Jakarta Timur,69,0.42,2025-01-27
+D009,Hepatitis C,Jakarta Timur,12,0.46,2025-01-22
+D009,Hepatitis C,Jakarta Timur,18,0.63,2025-01-17
+D009,Hepatitis C,Jakarta Timur,78,0.59,2025-01-12
+D009,Hepatitis C,Jakarta Timur,136,0.84,2025-01-07
+D009,Hepatitis C,Jakarta Timur,57,0.65,2025-01-02
+D009,Hepatitis C,Jakarta Timur,36,0.99,2024-12-28
+D009,Hepatitis C,Jakarta Timur,23,0.5,2024-12-23
+D009,Hepatitis C,Jakarta Timur,35,0.95,2024-12-18
+D010,Covid-19,Jakarta Timur,124,0.68,2025-03-23
+D010,Covid-19,Jakarta Timur,90,0.69,2025-03-18
+D010,Covid-19,Jakarta Timur,99,0.85,2025-03-13
+D010,Covid-19,Jakarta Timur,127,0.84,2025-03-08
+D010,Covid-19,Jakarta Timur,45,0.71,2025-03-03
+D010,Covid-19,Jakarta Timur,133,0.35,2025-02-26
+D010,Covid-19,Jakarta Timur,114,0.27,2025-02-21
+D010,Covid-19,Jakarta Timur,12,0.51,2025-02-16
+D010,Covid-19,Jakarta Timur,45,0.54,2025-02-11
+D010,Covid-19,Jakarta Timur,30,0.23,2025-02-06
+D010,Covid-19,Jakarta Timur,113,0.58,2025-02-01
+D010,Covid-19,Jakarta Timur,121,0.32,2025-01-27
+D010,Covid-19,Jakarta Timur,129,0.53,2025-01-22
+D010,Covid-19,Jakarta Timur,105,0.88,2025-01-17
+D010,Covid-19,Jakarta Timur,117,0.51,2025-01-12
+D010,Covid-19,Jakarta Timur,37,0.94,2025-01-07
+D010,Covid-19,Jakarta Timur,70,0.28,2025-01-02
+D010,Covid-19,Jakarta Timur,131,0.59,2024-12-28
+D010,Covid-19,Jakarta Timur,114,0.4,2024-12-23
+D010,Covid-19,Jakarta Timur,71,0.59,2024-12-18
+D011,Heart Disease,Jakarta Timur,89,0.53,2025-03-23
+D011,Heart Disease,Jakarta Timur,24,0.57,2025-03-18
+D011,Heart Disease,Jakarta Timur,69,0.37,2025-03-13
+D011,Heart Disease,Jakarta Timur,103,0.61,2025-03-08
+D011,Heart Disease,Jakarta Timur,53,0.23,2025-03-03
+D011,Heart Disease,Jakarta Timur,145,0.49,2025-02-26
+D011,Heart Disease,Jakarta Timur,102,0.27,2025-02-21
+D011,Heart Disease,Jakarta Timur,36,0.57,2025-02-16
+D011,Heart Disease,Jakarta Timur,48,0.97,2025-02-11
+D011,Heart Disease,Jakarta Timur,42,0.85,2025-02-06
+D011,Heart Disease,Jakarta Timur,112,0.62,2025-02-01
+D011,Heart Disease,Jakarta Timur,133,0.96,2025-01-27
+D011,Heart Disease,Jakarta Timur,37,0.22,2025-01-22
+D011,Heart Disease,Jakarta Timur,58,0.29,2025-01-17
+D011,Heart Disease,Jakarta Timur,120,0.35,2025-01-12
+D011,Heart Disease,Jakarta Timur,32,0.22,2025-01-07
+D011,Heart Disease,Jakarta Timur,69,0.56,2025-01-02
+D011,Heart Disease,Jakarta Timur,84,0.61,2024-12-28
+D011,Heart Disease,Jakarta Timur,109,0.83,2024-12-23
+D011,Heart Disease,Jakarta Timur,40,0.53,2024-12-18
+D012,Stroke,Jakarta Timur,37,0.96,2025-03-23
+D012,Stroke,Jakarta Timur,43,0.74,2025-03-18
+D012,Stroke,Jakarta Timur,18,0.47,2025-03-13
+D012,Stroke,Jakarta Timur,21,0.24,2025-03-08
+D012,Stroke,Jakarta Timur,144,0.6,2025-03-03
+D012,Stroke,Jakarta Timur,14,0.73,2025-02-26
+D012,Stroke,Jakarta Timur,47,0.65,2025-02-21
+D012,Stroke,Jakarta Timur,11,0.3,2025-02-16
+D012,Stroke,Jakarta Timur,148,0.37,2025-02-11
+D012,Stroke,Jakarta Timur,125,0.74,2025-02-06
+D012,Stroke,Jakarta Timur,109,0.76,2025-02-01
+D012,Stroke,Jakarta Timur,25,0.94,2025-01-27
+D012,Stroke,Jakarta Timur,145,0.56,2025-01-22
+D012,Stroke,Jakarta Timur,73,0.28,2025-01-17
+D012,Stroke,Jakarta Timur,142,0.68,2025-01-12
+D012,Stroke,Jakarta Timur,28,0.51,2025-01-07
+D012,Stroke,Jakarta Timur,146,0.44,2025-01-02
+D012,Stroke,Jakarta Timur,54,0.28,2024-12-28
+D012,Stroke,Jakarta Timur,60,0.91,2024-12-23
+D012,Stroke,Jakarta Timur,122,0.38,2024-12-18
+D013,Malaria,Jakarta Timur,142,0.21,2025-03-23
+D013,Malaria,Jakarta Timur,56,0.38,2025-03-18
+D013,Malaria,Jakarta Timur,142,0.57,2025-03-13
+D013,Malaria,Jakarta Timur,95,0.81,2025-03-08
+D013,Malaria,Jakarta Timur,34,0.54,2025-03-03
+D013,Malaria,Jakarta Timur,125,0.76,2025-02-26
+D013,Malaria,Jakarta Timur,57,0.76,2025-02-21
+D013,Malaria,Jakarta Timur,64,0.71,2025-02-16
+D013,Malaria,Jakarta Timur,55,0.87,2025-02-11
+D013,Malaria,Jakarta Timur,101,0.81,2025-02-06
+D013,Malaria,Jakarta Timur,65,0.61,2025-02-01
+D013,Malaria,Jakarta Timur,66,0.6,2025-01-27
+D013,Malaria,Jakarta Timur,148,0.47,2025-01-22
+D013,Malaria,Jakarta Timur,26,0.38,2025-01-17
+D013,Malaria,Jakarta Timur,143,0.52,2025-01-12
+D013,Malaria,Jakarta Timur,112,0.74,2025-01-07
+D013,Malaria,Jakarta Timur,13,0.7,2025-01-02
+D013,Malaria,Jakarta Timur,65,0.54,2024-12-28
+D013,Malaria,Jakarta Timur,42,0.94,2024-12-23
+D013,Malaria,Jakarta Timur,142,0.55,2024-12-18
+D014,Measles,Jakarta Timur,54,0.2,2025-03-23
+D014,Measles,Jakarta Timur,39,0.76,2025-03-18
+D014,Measles,Jakarta Timur,33,0.46,2025-03-13
+D014,Measles,Jakarta Timur,141,0.45,2025-03-08
+D014,Measles,Jakarta Timur,92,0.87,2025-03-03
+D014,Measles,Jakarta Timur,18,0.21,2025-02-26
+D014,Measles,Jakarta Timur,11,0.79,2025-02-21
+D014,Measles,Jakarta Timur,14,0.71,2025-02-16
+D014,Measles,Jakarta Timur,24,0.52,2025-02-11
+D014,Measles,Jakarta Timur,101,0.69,2025-02-06
+D014,Measles,Jakarta Timur,109,0.83,2025-02-01
+D014,Measles,Jakarta Timur,37,0.38,2025-01-27
+D014,Measles,Jakarta Timur,30,0.86,2025-01-22
+D014,Measles,Jakarta Timur,70,0.68,2025-01-17
+D014,Measles,Jakarta Timur,148,0.49,2025-01-12
+D014,Measles,Jakarta Timur,10,0.7,2025-01-07
+D014,Measles,Jakarta Timur,118,0.38,2025-01-02
+D014,Measles,Jakarta Timur,26,0.59,2024-12-28
+D014,Measles,Jakarta Timur,120,0.48,2024-12-23
+D014,Measles,Jakarta Timur,68,0.36,2024-12-18
+D015,Chickenpox,Jakarta Timur,47,0.6,2025-03-23
+D015,Chickenpox,Jakarta Timur,115,0.64,2025-03-18
+D015,Chickenpox,Jakarta Timur,59,0.21,2025-03-13
+D015,Chickenpox,Jakarta Timur,112,0.97,2025-03-08
+D015,Chickenpox,Jakarta Timur,68,0.78,2025-03-03
+D015,Chickenpox,Jakarta Timur,104,0.52,2025-02-26
+D015,Chickenpox,Jakarta Timur,103,0.58,2025-02-21
+D015,Chickenpox,Jakarta Timur,25,0.8,2025-02-16
+D015,Chickenpox,Jakarta Timur,145,0.92,2025-02-11
+D015,Chickenpox,Jakarta Timur,118,0.56,2025-02-06
+D015,Chickenpox,Jakarta Timur,103,0.77,2025-02-01
+D015,Chickenpox,Jakarta Timur,142,0.21,2025-01-27
+D015,Chickenpox,Jakarta Timur,90,0.75,2025-01-22
+D015,Chickenpox,Jakarta Timur,117,0.66,2025-01-17
+D015,Chickenpox,Jakarta Timur,89,0.65,2025-01-12
+D015,Chickenpox,Jakarta Timur,36,0.51,2025-01-07
+D015,Chickenpox,Jakarta Timur,117,0.49,2025-01-02
+D015,Chickenpox,Jakarta Timur,69,0.89,2024-12-28
+D015,Chickenpox,Jakarta Timur,89,0.2,2024-12-23
+D015,Chickenpox,Jakarta Timur,105,0.41,2024-12-18
+D016,Chronic Kidney Disease,Jakarta Timur,105,0.6,2025-03-23
+D016,Chronic Kidney Disease,Jakarta Timur,118,0.37,2025-03-18
+D016,Chronic Kidney Disease,Jakarta Timur,112,0.88,2025-03-13
+D016,Chronic Kidney Disease,Jakarta Timur,138,0.8,2025-03-08
+D016,Chronic Kidney Disease,Jakarta Timur,89,0.37,2025-03-03
+D016,Chronic Kidney Disease,Jakarta Timur,125,0.26,2025-02-26
+D016,Chronic Kidney Disease,Jakarta Timur,45,0.9,2025-02-21
+D016,Chronic Kidney Disease,Jakarta Timur,138,0.23,2025-02-16
+D016,Chronic Kidney Disease,Jakarta Timur,61,0.92,2025-02-11
+D016,Chronic Kidney Disease,Jakarta Timur,146,0.81,2025-02-06
+D016,Chronic Kidney Disease,Jakarta Timur,57,0.86,2025-02-01
+D016,Chronic Kidney Disease,Jakarta Timur,51,0.46,2025-01-27
+D016,Chronic Kidney Disease,Jakarta Timur,103,0.93,2025-01-22
+D016,Chronic Kidney Disease,Jakarta Timur,113,0.75,2025-01-17
+D016,Chronic Kidney Disease,Jakarta Timur,48,0.62,2025-01-12
+D016,Chronic Kidney Disease,Jakarta Timur,36,0.35,2025-01-07
+D016,Chronic Kidney Disease,Jakarta Timur,28,0.92,2025-01-02
+D016,Chronic Kidney Disease,Jakarta Timur,60,0.61,2024-12-28
+D016,Chronic Kidney Disease,Jakarta Timur,29,0.28,2024-12-23
+D016,Chronic Kidney Disease,Jakarta Timur,110,0.32,2024-12-18
+D017,Liver Cirrhosis,Jakarta Timur,47,0.67,2025-03-23
+D017,Liver Cirrhosis,Jakarta Timur,85,0.96,2025-03-18
+D017,Liver Cirrhosis,Jakarta Timur,132,0.73,2025-03-13
+D017,Liver Cirrhosis,Jakarta Timur,112,0.41,2025-03-08
+D017,Liver Cirrhosis,Jakarta Timur,92,0.39,2025-03-03
+D017,Liver Cirrhosis,Jakarta Timur,15,0.52,2025-02-26
+D017,Liver Cirrhosis,Jakarta Timur,121,0.3,2025-02-21
+D017,Liver Cirrhosis,Jakarta Timur,148,0.7,2025-02-16
+D017,Liver Cirrhosis,Jakarta Timur,93,0.42,2025-02-11
+D017,Liver Cirrhosis,Jakarta Timur,93,0.7,2025-02-06
+D017,Liver Cirrhosis,Jakarta Timur,89,0.54,2025-02-01
+D017,Liver Cirrhosis,Jakarta Timur,100,0.39,2025-01-27
+D017,Liver Cirrhosis,Jakarta Timur,49,0.51,2025-01-22
+D017,Liver Cirrhosis,Jakarta Timur,68,0.76,2025-01-17
+D017,Liver Cirrhosis,Jakarta Timur,126,0.75,2025-01-12
+D017,Liver Cirrhosis,Jakarta Timur,66,0.33,2025-01-07
+D017,Liver Cirrhosis,Jakarta Timur,138,0.58,2025-01-02
+D017,Liver Cirrhosis,Jakarta Timur,73,0.99,2024-12-28
+D017,Liver Cirrhosis,Jakarta Timur,46,0.75,2024-12-23
+D017,Liver Cirrhosis,Jakarta Timur,137,0.86,2024-12-18
+D018,Bronchitis,Jakarta Timur,96,0.9,2025-03-23
+D018,Bronchitis,Jakarta Timur,38,0.28,2025-03-18
+D018,Bronchitis,Jakarta Timur,69,0.37,2025-03-13
+D018,Bronchitis,Jakarta Timur,81,0.74,2025-03-08
+D018,Bronchitis,Jakarta Timur,67,0.58,2025-03-03
+D018,Bronchitis,Jakarta Timur,89,0.88,2025-02-26
+D018,Bronchitis,Jakarta Timur,49,0.47,2025-02-21
+D018,Bronchitis,Jakarta Timur,60,0.68,2025-02-16
+D018,Bronchitis,Jakarta Timur,106,0.46,2025-02-11
+D018,Bronchitis,Jakarta Timur,126,0.64,2025-02-06
+D018,Bronchitis,Jakarta Timur,124,0.63,2025-02-01
+D018,Bronchitis,Jakarta Timur,86,0.47,2025-01-27
+D018,Bronchitis,Jakarta Timur,105,0.83,2025-01-22
+D018,Bronchitis,Jakarta Timur,127,0.37,2025-01-17
+D018,Bronchitis,Jakarta Timur,128,0.72,2025-01-12
+D018,Bronchitis,Jakarta Timur,111,0.29,2025-01-07
+D018,Bronchitis,Jakarta Timur,136,0.71,2025-01-02
+D018,Bronchitis,Jakarta Timur,138,0.43,2024-12-28
+D018,Bronchitis,Jakarta Timur,27,0.43,2024-12-23
+D018,Bronchitis,Jakarta Timur,81,0.38,2024-12-18
+D019,Depression,Jakarta Timur,15,0.74,2025-03-23
+D019,Depression,Jakarta Timur,92,0.95,2025-03-18
+D019,Depression,Jakarta Timur,54,0.68,2025-03-13
+D019,Depression,Jakarta Timur,16,0.73,2025-03-08
+D019,Depression,Jakarta Timur,67,0.38,2025-03-03
+D019,Depression,Jakarta Timur,120,0.93,2025-02-26
+D019,Depression,Jakarta Timur,21,0.52,2025-02-21
+D019,Depression,Jakarta Timur,17,0.39,2025-02-16
+D019,Depression,Jakarta Timur,62,0.39,2025-02-11
+D019,Depression,Jakarta Timur,101,0.48,2025-02-06
+D019,Depression,Jakarta Timur,53,0.52,2025-02-01
+D019,Depression,Jakarta Timur,124,0.96,2025-01-27
+D019,Depression,Jakarta Timur,82,0.38,2025-01-22
+D019,Depression,Jakarta Timur,40,0.22,2025-01-17
+D019,Depression,Jakarta Timur,128,0.81,2025-01-12
+D019,Depression,Jakarta Timur,119,0.32,2025-01-07
+D019,Depression,Jakarta Timur,115,0.66,2025-01-02
+D019,Depression,Jakarta Timur,129,0.84,2024-12-28
+D019,Depression,Jakarta Timur,23,0.85,2024-12-23
+D019,Depression,Jakarta Timur,127,0.65,2024-12-18
+D020,Anxiety,Jakarta Timur,110,0.55,2025-03-23
+D020,Anxiety,Jakarta Timur,53,0.3,2025-03-18
+D020,Anxiety,Jakarta Timur,129,0.29,2025-03-13
+D020,Anxiety,Jakarta Timur,81,0.39,2025-03-08
+D020,Anxiety,Jakarta Timur,61,0.91,2025-03-03
+D020,Anxiety,Jakarta Timur,14,0.33,2025-02-26
+D020,Anxiety,Jakarta Timur,139,0.77,2025-02-21
+D020,Anxiety,Jakarta Timur,103,0.94,2025-02-16
+D020,Anxiety,Jakarta Timur,50,0.66,2025-02-11
+D020,Anxiety,Jakarta Timur,53,0.22,2025-02-06
+D020,Anxiety,Jakarta Timur,39,0.64,2025-02-01
+D020,Anxiety,Jakarta Timur,58,0.26,2025-01-27
+D020,Anxiety,Jakarta Timur,79,0.45,2025-01-22
+D020,Anxiety,Jakarta Timur,35,0.62,2025-01-17
+D020,Anxiety,Jakarta Timur,120,0.89,2025-01-12
+D020,Anxiety,Jakarta Timur,24,0.75,2025-01-07
+D020,Anxiety,Jakarta Timur,55,0.24,2025-01-02
+D020,Anxiety,Jakarta Timur,81,0.41,2024-12-28
+D020,Anxiety,Jakarta Timur,104,0.21,2024-12-23
+D020,Anxiety,Jakarta Timur,141,0.61,2024-12-18
+D001,Influenza,Depok,34,0.25,2025-03-23
+D001,Influenza,Depok,109,0.28,2025-03-18
+D001,Influenza,Depok,135,0.27,2025-03-13
+D001,Influenza,Depok,109,0.62,2025-03-08
+D001,Influenza,Depok,36,0.57,2025-03-03
+D001,Influenza,Depok,108,0.27,2025-02-26
+D001,Influenza,Depok,45,0.6,2025-02-21
+D001,Influenza,Depok,28,0.2,2025-02-16
+D001,Influenza,Depok,93,0.38,2025-02-11
+D001,Influenza,Depok,116,0.53,2025-02-06
+D001,Influenza,Depok,71,0.81,2025-02-01
+D001,Influenza,Depok,129,0.21,2025-01-27
+D001,Influenza,Depok,134,0.71,2025-01-22
+D001,Influenza,Depok,26,0.25,2025-01-17
+D001,Influenza,Depok,94,0.77,2025-01-12
+D001,Influenza,Depok,10,0.22,2025-01-07
+D001,Influenza,Depok,33,0.24,2025-01-02
+D001,Influenza,Depok,11,0.82,2024-12-28
+D001,Influenza,Depok,108,0.75,2024-12-23
+D001,Influenza,Depok,74,0.37,2024-12-18
+D002,Diabetes,Depok,25,0.25,2025-03-23
+D002,Diabetes,Depok,12,0.37,2025-03-18
+D002,Diabetes,Depok,104,0.61,2025-03-13
+D002,Diabetes,Depok,101,0.21,2025-03-08
+D002,Diabetes,Depok,46,0.86,2025-03-03
+D002,Diabetes,Depok,79,0.21,2025-02-26
+D002,Diabetes,Depok,109,0.97,2025-02-21
+D002,Diabetes,Depok,93,0.54,2025-02-16
+D002,Diabetes,Depok,42,0.51,2025-02-11
+D002,Diabetes,Depok,43,0.45,2025-02-06
+D002,Diabetes,Depok,149,0.96,2025-02-01
+D002,Diabetes,Depok,61,0.71,2025-01-27
+D002,Diabetes,Depok,67,0.21,2025-01-22
+D002,Diabetes,Depok,102,0.88,2025-01-17
+D002,Diabetes,Depok,46,0.72,2025-01-12
+D002,Diabetes,Depok,65,0.32,2025-01-07
+D002,Diabetes,Depok,75,0.22,2025-01-02
+D002,Diabetes,Depok,104,0.61,2024-12-28
+D002,Diabetes,Depok,19,0.59,2024-12-23
+D002,Diabetes,Depok,149,0.82,2024-12-18
+D003,Hypertension,Depok,90,0.89,2025-03-23
+D003,Hypertension,Depok,147,0.47,2025-03-18
+D003,Hypertension,Depok,68,0.42,2025-03-13
+D003,Hypertension,Depok,15,0.93,2025-03-08
+D003,Hypertension,Depok,86,0.3,2025-03-03
+D003,Hypertension,Depok,77,0.27,2025-02-26
+D003,Hypertension,Depok,62,0.89,2025-02-21
+D003,Hypertension,Depok,79,0.91,2025-02-16
+D003,Hypertension,Depok,14,0.86,2025-02-11
+D003,Hypertension,Depok,139,0.35,2025-02-06
+D003,Hypertension,Depok,104,0.94,2025-02-01
+D003,Hypertension,Depok,19,0.89,2025-01-27
+D003,Hypertension,Depok,31,0.95,2025-01-22
+D003,Hypertension,Depok,121,0.63,2025-01-17
+D003,Hypertension,Depok,116,0.62,2025-01-12
+D003,Hypertension,Depok,114,0.34,2025-01-07
+D003,Hypertension,Depok,97,0.85,2025-01-02
+D003,Hypertension,Depok,100,0.88,2024-12-28
+D003,Hypertension,Depok,29,0.33,2024-12-23
+D003,Hypertension,Depok,93,0.31,2024-12-18
+D004,Tuberculosis,Depok,135,0.43,2025-03-23
+D004,Tuberculosis,Depok,90,0.43,2025-03-18
+D004,Tuberculosis,Depok,126,0.68,2025-03-13
+D004,Tuberculosis,Depok,98,0.82,2025-03-08
+D004,Tuberculosis,Depok,15,0.37,2025-03-03
+D004,Tuberculosis,Depok,128,0.7,2025-02-26
+D004,Tuberculosis,Depok,74,0.25,2025-02-21
+D004,Tuberculosis,Depok,123,0.34,2025-02-16
+D004,Tuberculosis,Depok,67,0.61,2025-02-11
+D004,Tuberculosis,Depok,35,0.81,2025-02-06
+D004,Tuberculosis,Depok,98,0.43,2025-02-01
+D004,Tuberculosis,Depok,84,0.7,2025-01-27
+D004,Tuberculosis,Depok,72,0.62,2025-01-22
+D004,Tuberculosis,Depok,31,0.49,2025-01-17
+D004,Tuberculosis,Depok,88,0.4,2025-01-12
+D004,Tuberculosis,Depok,147,0.68,2025-01-07
+D004,Tuberculosis,Depok,93,0.58,2025-01-02
+D004,Tuberculosis,Depok,59,0.91,2024-12-28
+D004,Tuberculosis,Depok,138,0.48,2024-12-23
+D004,Tuberculosis,Depok,70,0.97,2024-12-18
+D005,Dengue Fever,Depok,46,0.67,2025-03-23
+D005,Dengue Fever,Depok,22,0.72,2025-03-18
+D005,Dengue Fever,Depok,54,0.42,2025-03-13
+D005,Dengue Fever,Depok,24,0.71,2025-03-08
+D005,Dengue Fever,Depok,100,0.22,2025-03-03
+D005,Dengue Fever,Depok,48,0.98,2025-02-26
+D005,Dengue Fever,Depok,88,0.32,2025-02-21
+D005,Dengue Fever,Depok,103,0.72,2025-02-16
+D005,Dengue Fever,Depok,141,0.6,2025-02-11
+D005,Dengue Fever,Depok,48,0.86,2025-02-06
+D005,Dengue Fever,Depok,63,0.81,2025-02-01
+D005,Dengue Fever,Depok,144,0.65,2025-01-27
+D005,Dengue Fever,Depok,22,0.52,2025-01-22
+D005,Dengue Fever,Depok,48,0.56,2025-01-17
+D005,Dengue Fever,Depok,114,0.55,2025-01-12
+D005,Dengue Fever,Depok,81,0.31,2025-01-07
+D005,Dengue Fever,Depok,82,0.7,2025-01-02
+D005,Dengue Fever,Depok,85,0.75,2024-12-28
+D005,Dengue Fever,Depok,115,0.8,2024-12-23
+D005,Dengue Fever,Depok,52,0.44,2024-12-18
+D006,Pneumonia,Depok,11,0.83,2025-03-23
+D006,Pneumonia,Depok,106,0.84,2025-03-18
+D006,Pneumonia,Depok,19,0.44,2025-03-13
+D006,Pneumonia,Depok,70,0.4,2025-03-08
+D006,Pneumonia,Depok,14,0.66,2025-03-03
+D006,Pneumonia,Depok,36,0.26,2025-02-26
+D006,Pneumonia,Depok,59,0.47,2025-02-21
+D006,Pneumonia,Depok,78,0.52,2025-02-16
+D006,Pneumonia,Depok,111,0.59,2025-02-11
+D006,Pneumonia,Depok,12,0.75,2025-02-06
+D006,Pneumonia,Depok,51,0.55,2025-02-01
+D006,Pneumonia,Depok,54,0.76,2025-01-27
+D006,Pneumonia,Depok,29,0.68,2025-01-22
+D006,Pneumonia,Depok,52,0.3,2025-01-17
+D006,Pneumonia,Depok,91,0.39,2025-01-12
+D006,Pneumonia,Depok,41,0.66,2025-01-07
+D006,Pneumonia,Depok,139,0.85,2025-01-02
+D006,Pneumonia,Depok,95,0.42,2024-12-28
+D006,Pneumonia,Depok,84,0.48,2024-12-23
+D006,Pneumonia,Depok,77,0.24,2024-12-18
+D007,Asthma,Depok,117,0.61,2025-03-23
+D007,Asthma,Depok,51,0.53,2025-03-18
+D007,Asthma,Depok,71,0.22,2025-03-13
+D007,Asthma,Depok,80,0.95,2025-03-08
+D007,Asthma,Depok,29,0.6,2025-03-03
+D007,Asthma,Depok,80,0.48,2025-02-26
+D007,Asthma,Depok,140,0.59,2025-02-21
+D007,Asthma,Depok,93,0.6,2025-02-16
+D007,Asthma,Depok,69,0.53,2025-02-11
+D007,Asthma,Depok,114,0.56,2025-02-06
+D007,Asthma,Depok,145,0.87,2025-02-01
+D007,Asthma,Depok,120,0.92,2025-01-27
+D007,Asthma,Depok,42,0.98,2025-01-22
+D007,Asthma,Depok,38,0.32,2025-01-17
+D007,Asthma,Depok,114,0.75,2025-01-12
+D007,Asthma,Depok,73,0.88,2025-01-07
+D007,Asthma,Depok,123,0.9,2025-01-02
+D007,Asthma,Depok,38,0.53,2024-12-28
+D007,Asthma,Depok,133,0.64,2024-12-23
+D007,Asthma,Depok,62,0.3,2024-12-18
+D008,Hepatitis B,Depok,85,0.57,2025-03-23
+D008,Hepatitis B,Depok,143,0.5,2025-03-18
+D008,Hepatitis B,Depok,126,0.78,2025-03-13
+D008,Hepatitis B,Depok,83,0.44,2025-03-08
+D008,Hepatitis B,Depok,83,0.93,2025-03-03
+D008,Hepatitis B,Depok,34,0.43,2025-02-26
+D008,Hepatitis B,Depok,107,0.3,2025-02-21
+D008,Hepatitis B,Depok,69,0.24,2025-02-16
+D008,Hepatitis B,Depok,41,0.67,2025-02-11
+D008,Hepatitis B,Depok,148,0.52,2025-02-06
+D008,Hepatitis B,Depok,99,0.33,2025-02-01
+D008,Hepatitis B,Depok,51,0.5,2025-01-27
+D008,Hepatitis B,Depok,124,0.65,2025-01-22
+D008,Hepatitis B,Depok,131,0.84,2025-01-17
+D008,Hepatitis B,Depok,142,0.47,2025-01-12
+D008,Hepatitis B,Depok,110,0.65,2025-01-07
+D008,Hepatitis B,Depok,48,0.56,2025-01-02
+D008,Hepatitis B,Depok,118,0.86,2024-12-28
+D008,Hepatitis B,Depok,115,0.31,2024-12-23
+D008,Hepatitis B,Depok,84,0.28,2024-12-18
+D009,Hepatitis C,Depok,121,0.74,2025-03-23
+D009,Hepatitis C,Depok,76,0.53,2025-03-18
+D009,Hepatitis C,Depok,25,0.59,2025-03-13
+D009,Hepatitis C,Depok,10,0.84,2025-03-08
+D009,Hepatitis C,Depok,123,0.34,2025-03-03
+D009,Hepatitis C,Depok,107,0.57,2025-02-26
+D009,Hepatitis C,Depok,133,0.95,2025-02-21
+D009,Hepatitis C,Depok,109,0.77,2025-02-16
+D009,Hepatitis C,Depok,26,0.35,2025-02-11
+D009,Hepatitis C,Depok,94,0.87,2025-02-06
+D009,Hepatitis C,Depok,38,0.41,2025-02-01
+D009,Hepatitis C,Depok,128,0.9,2025-01-27
+D009,Hepatitis C,Depok,96,0.99,2025-01-22
+D009,Hepatitis C,Depok,25,0.25,2025-01-17
+D009,Hepatitis C,Depok,17,0.71,2025-01-12
+D009,Hepatitis C,Depok,137,0.48,2025-01-07
+D009,Hepatitis C,Depok,100,0.34,2025-01-02
+D009,Hepatitis C,Depok,72,0.92,2024-12-28
+D009,Hepatitis C,Depok,116,0.5,2024-12-23
+D009,Hepatitis C,Depok,25,0.59,2024-12-18
+D010,Covid-19,Depok,68,0.95,2025-03-23
+D010,Covid-19,Depok,126,0.55,2025-03-18
+D010,Covid-19,Depok,16,0.72,2025-03-13
+D010,Covid-19,Depok,132,0.28,2025-03-08
+D010,Covid-19,Depok,37,0.6,2025-03-03
+D010,Covid-19,Depok,139,0.95,2025-02-26
+D010,Covid-19,Depok,84,0.48,2025-02-21
+D010,Covid-19,Depok,111,0.63,2025-02-16
+D010,Covid-19,Depok,76,0.34,2025-02-11
+D010,Covid-19,Depok,37,0.33,2025-02-06
+D010,Covid-19,Depok,91,0.35,2025-02-01
+D010,Covid-19,Depok,82,0.52,2025-01-27
+D010,Covid-19,Depok,61,0.31,2025-01-22
+D010,Covid-19,Depok,126,0.44,2025-01-17
+D010,Covid-19,Depok,45,0.88,2025-01-12
+D010,Covid-19,Depok,76,0.74,2025-01-07
+D010,Covid-19,Depok,80,0.44,2025-01-02
+D010,Covid-19,Depok,52,0.89,2024-12-28
+D010,Covid-19,Depok,119,0.3,2024-12-23
+D010,Covid-19,Depok,75,0.51,2024-12-18
+D011,Heart Disease,Depok,103,0.99,2025-03-23
+D011,Heart Disease,Depok,50,0.53,2025-03-18
+D011,Heart Disease,Depok,13,0.55,2025-03-13
+D011,Heart Disease,Depok,19,0.45,2025-03-08
+D011,Heart Disease,Depok,76,0.55,2025-03-03
+D011,Heart Disease,Depok,62,0.68,2025-02-26
+D011,Heart Disease,Depok,77,0.58,2025-02-21
+D011,Heart Disease,Depok,111,0.73,2025-02-16
+D011,Heart Disease,Depok,128,0.55,2025-02-11
+D011,Heart Disease,Depok,119,0.61,2025-02-06
+D011,Heart Disease,Depok,32,0.51,2025-02-01
+D011,Heart Disease,Depok,135,0.29,2025-01-27
+D011,Heart Disease,Depok,84,0.25,2025-01-22
+D011,Heart Disease,Depok,129,0.34,2025-01-17
+D011,Heart Disease,Depok,97,0.27,2025-01-12
+D011,Heart Disease,Depok,139,0.22,2025-01-07
+D011,Heart Disease,Depok,113,0.4,2025-01-02
+D011,Heart Disease,Depok,41,0.48,2024-12-28
+D011,Heart Disease,Depok,19,0.65,2024-12-23
+D011,Heart Disease,Depok,110,0.71,2024-12-18
+D012,Stroke,Depok,76,0.59,2025-03-23
+D012,Stroke,Depok,107,0.86,2025-03-18
+D012,Stroke,Depok,106,0.88,2025-03-13
+D012,Stroke,Depok,15,0.61,2025-03-08
+D012,Stroke,Depok,67,0.96,2025-03-03
+D012,Stroke,Depok,129,0.76,2025-02-26
+D012,Stroke,Depok,86,0.83,2025-02-21
+D012,Stroke,Depok,95,0.22,2025-02-16
+D012,Stroke,Depok,19,0.83,2025-02-11
+D012,Stroke,Depok,71,0.9,2025-02-06
+D012,Stroke,Depok,19,0.92,2025-02-01
+D012,Stroke,Depok,43,0.95,2025-01-27
+D012,Stroke,Depok,43,0.66,2025-01-22
+D012,Stroke,Depok,67,0.45,2025-01-17
+D012,Stroke,Depok,18,0.7,2025-01-12
+D012,Stroke,Depok,34,0.86,2025-01-07
+D012,Stroke,Depok,135,0.82,2025-01-02
+D012,Stroke,Depok,102,0.57,2024-12-28
+D012,Stroke,Depok,47,0.89,2024-12-23
+D012,Stroke,Depok,110,0.66,2024-12-18
+D013,Malaria,Depok,37,0.93,2025-03-23
+D013,Malaria,Depok,145,0.85,2025-03-18
+D013,Malaria,Depok,32,0.62,2025-03-13
+D013,Malaria,Depok,32,0.4,2025-03-08
+D013,Malaria,Depok,90,0.43,2025-03-03
+D013,Malaria,Depok,72,0.4,2025-02-26
+D013,Malaria,Depok,102,0.82,2025-02-21
+D013,Malaria,Depok,36,0.62,2025-02-16
+D013,Malaria,Depok,85,0.77,2025-02-11
+D013,Malaria,Depok,18,0.36,2025-02-06
+D013,Malaria,Depok,138,0.62,2025-02-01
+D013,Malaria,Depok,96,0.37,2025-01-27
+D013,Malaria,Depok,120,0.98,2025-01-22
+D013,Malaria,Depok,74,0.33,2025-01-17
+D013,Malaria,Depok,142,0.91,2025-01-12
+D013,Malaria,Depok,19,0.54,2025-01-07
+D013,Malaria,Depok,81,0.74,2025-01-02
+D013,Malaria,Depok,61,0.71,2024-12-28
+D013,Malaria,Depok,126,0.44,2024-12-23
+D013,Malaria,Depok,134,0.72,2024-12-18
+D014,Measles,Depok,95,0.54,2025-03-23
+D014,Measles,Depok,104,0.68,2025-03-18
+D014,Measles,Depok,16,0.36,2025-03-13
+D014,Measles,Depok,43,0.7,2025-03-08
+D014,Measles,Depok,82,0.56,2025-03-03
+D014,Measles,Depok,21,0.91,2025-02-26
+D014,Measles,Depok,36,0.53,2025-02-21
+D014,Measles,Depok,46,0.5,2025-02-16
+D014,Measles,Depok,89,0.89,2025-02-11
+D014,Measles,Depok,57,0.79,2025-02-06
+D014,Measles,Depok,93,0.37,2025-02-01
+D014,Measles,Depok,86,0.55,2025-01-27
+D014,Measles,Depok,63,0.57,2025-01-22
+D014,Measles,Depok,48,0.31,2025-01-17
+D014,Measles,Depok,122,0.61,2025-01-12
+D014,Measles,Depok,136,0.75,2025-01-07
+D014,Measles,Depok,56,0.78,2025-01-02
+D014,Measles,Depok,81,0.65,2024-12-28
+D014,Measles,Depok,71,0.51,2024-12-23
+D014,Measles,Depok,81,0.26,2024-12-18
+D015,Chickenpox,Depok,26,0.77,2025-03-23
+D015,Chickenpox,Depok,48,0.8,2025-03-18
+D015,Chickenpox,Depok,26,0.21,2025-03-13
+D015,Chickenpox,Depok,42,0.33,2025-03-08
+D015,Chickenpox,Depok,120,0.24,2025-03-03
+D015,Chickenpox,Depok,107,0.6,2025-02-26
+D015,Chickenpox,Depok,32,0.59,2025-02-21
+D015,Chickenpox,Depok,40,0.6,2025-02-16
+D015,Chickenpox,Depok,11,0.93,2025-02-11
+D015,Chickenpox,Depok,82,0.96,2025-02-06
+D015,Chickenpox,Depok,149,0.72,2025-02-01
+D015,Chickenpox,Depok,44,0.69,2025-01-27
+D015,Chickenpox,Depok,119,0.58,2025-01-22
+D015,Chickenpox,Depok,48,0.28,2025-01-17
+D015,Chickenpox,Depok,125,0.54,2025-01-12
+D015,Chickenpox,Depok,98,0.83,2025-01-07
+D015,Chickenpox,Depok,65,0.51,2025-01-02
+D015,Chickenpox,Depok,108,0.95,2024-12-28
+D015,Chickenpox,Depok,122,0.9,2024-12-23
+D015,Chickenpox,Depok,83,0.63,2024-12-18
+D016,Chronic Kidney Disease,Depok,134,0.75,2025-03-23
+D016,Chronic Kidney Disease,Depok,122,0.75,2025-03-18
+D016,Chronic Kidney Disease,Depok,117,0.98,2025-03-13
+D016,Chronic Kidney Disease,Depok,137,0.22,2025-03-08
+D016,Chronic Kidney Disease,Depok,96,0.96,2025-03-03
+D016,Chronic Kidney Disease,Depok,47,0.91,2025-02-26
+D016,Chronic Kidney Disease,Depok,78,0.4,2025-02-21
+D016,Chronic Kidney Disease,Depok,62,0.46,2025-02-16
+D016,Chronic Kidney Disease,Depok,83,0.69,2025-02-11
+D016,Chronic Kidney Disease,Depok,115,0.65,2025-02-06
+D016,Chronic Kidney Disease,Depok,25,0.63,2025-02-01
+D016,Chronic Kidney Disease,Depok,79,0.87,2025-01-27
+D016,Chronic Kidney Disease,Depok,109,0.58,2025-01-22
+D016,Chronic Kidney Disease,Depok,37,0.63,2025-01-17
+D016,Chronic Kidney Disease,Depok,95,0.56,2025-01-12
+D016,Chronic Kidney Disease,Depok,138,0.51,2025-01-07
+D016,Chronic Kidney Disease,Depok,114,0.3,2025-01-02
+D016,Chronic Kidney Disease,Depok,75,0.27,2024-12-28
+D016,Chronic Kidney Disease,Depok,134,0.69,2024-12-23
+D016,Chronic Kidney Disease,Depok,85,0.42,2024-12-18
+D017,Liver Cirrhosis,Depok,15,0.27,2025-03-23
+D017,Liver Cirrhosis,Depok,37,0.85,2025-03-18
+D017,Liver Cirrhosis,Depok,120,0.39,2025-03-13
+D017,Liver Cirrhosis,Depok,54,0.42,2025-03-08
+D017,Liver Cirrhosis,Depok,11,0.85,2025-03-03
+D017,Liver Cirrhosis,Depok,99,0.52,2025-02-26
+D017,Liver Cirrhosis,Depok,72,0.26,2025-02-21
+D017,Liver Cirrhosis,Depok,13,0.29,2025-02-16
+D017,Liver Cirrhosis,Depok,56,0.79,2025-02-11
+D017,Liver Cirrhosis,Depok,117,0.79,2025-02-06
+D017,Liver Cirrhosis,Depok,46,0.68,2025-02-01
+D017,Liver Cirrhosis,Depok,26,0.27,2025-01-27
+D017,Liver Cirrhosis,Depok,141,0.94,2025-01-22
+D017,Liver Cirrhosis,Depok,23,0.88,2025-01-17
+D017,Liver Cirrhosis,Depok,58,0.31,2025-01-12
+D017,Liver Cirrhosis,Depok,76,0.9,2025-01-07
+D017,Liver Cirrhosis,Depok,60,0.94,2025-01-02
+D017,Liver Cirrhosis,Depok,35,0.84,2024-12-28
+D017,Liver Cirrhosis,Depok,123,0.88,2024-12-23
+D017,Liver Cirrhosis,Depok,66,0.93,2024-12-18
+D018,Bronchitis,Depok,57,0.85,2025-03-23
+D018,Bronchitis,Depok,96,0.63,2025-03-18
+D018,Bronchitis,Depok,81,0.68,2025-03-13
+D018,Bronchitis,Depok,79,0.3,2025-03-08
+D018,Bronchitis,Depok,54,0.23,2025-03-03
+D018,Bronchitis,Depok,79,0.48,2025-02-26
+D018,Bronchitis,Depok,148,0.82,2025-02-21
+D018,Bronchitis,Depok,142,0.37,2025-02-16
+D018,Bronchitis,Depok,19,0.21,2025-02-11
+D018,Bronchitis,Depok,65,0.63,2025-02-06
+D018,Bronchitis,Depok,140,0.39,2025-02-01
+D018,Bronchitis,Depok,144,0.32,2025-01-27
+D018,Bronchitis,Depok,72,0.58,2025-01-22
+D018,Bronchitis,Depok,43,0.52,2025-01-17
+D018,Bronchitis,Depok,109,0.38,2025-01-12
+D018,Bronchitis,Depok,71,0.3,2025-01-07
+D018,Bronchitis,Depok,109,0.46,2025-01-02
+D018,Bronchitis,Depok,47,0.75,2024-12-28
+D018,Bronchitis,Depok,74,0.34,2024-12-23
+D018,Bronchitis,Depok,26,0.57,2024-12-18
+D019,Depression,Depok,20,0.93,2025-03-23
+D019,Depression,Depok,90,0.33,2025-03-18
+D019,Depression,Depok,58,0.5,2025-03-13
+D019,Depression,Depok,27,0.77,2025-03-08
+D019,Depression,Depok,14,0.47,2025-03-03
+D019,Depression,Depok,129,0.64,2025-02-26
+D019,Depression,Depok,137,0.49,2025-02-21
+D019,Depression,Depok,118,0.83,2025-02-16
+D019,Depression,Depok,103,0.94,2025-02-11
+D019,Depression,Depok,146,0.23,2025-02-06
+D019,Depression,Depok,95,0.43,2025-02-01
+D019,Depression,Depok,67,0.44,2025-01-27
+D019,Depression,Depok,20,0.21,2025-01-22
+D019,Depression,Depok,140,0.78,2025-01-17
+D019,Depression,Depok,55,0.51,2025-01-12
+D019,Depression,Depok,133,0.55,2025-01-07
+D019,Depression,Depok,45,0.84,2025-01-02
+D019,Depression,Depok,35,0.77,2024-12-28
+D019,Depression,Depok,79,0.56,2024-12-23
+D019,Depression,Depok,49,0.45,2024-12-18
+D020,Anxiety,Depok,107,0.68,2025-03-23
+D020,Anxiety,Depok,33,0.84,2025-03-18
+D020,Anxiety,Depok,41,0.28,2025-03-13
+D020,Anxiety,Depok,56,0.54,2025-03-08
+D020,Anxiety,Depok,131,0.72,2025-03-03
+D020,Anxiety,Depok,19,0.33,2025-02-26
+D020,Anxiety,Depok,107,0.32,2025-02-21
+D020,Anxiety,Depok,19,0.67,2025-02-16
+D020,Anxiety,Depok,118,0.89,2025-02-11
+D020,Anxiety,Depok,77,0.47,2025-02-06
+D020,Anxiety,Depok,125,0.37,2025-02-01
+D020,Anxiety,Depok,74,0.93,2025-01-27
+D020,Anxiety,Depok,92,0.94,2025-01-22
+D020,Anxiety,Depok,138,0.48,2025-01-17
+D020,Anxiety,Depok,73,0.28,2025-01-12
+D020,Anxiety,Depok,18,0.95,2025-01-07
+D020,Anxiety,Depok,141,0.24,2025-01-02
+D020,Anxiety,Depok,17,0.29,2024-12-28
+D020,Anxiety,Depok,138,0.8,2024-12-23
+D020,Anxiety,Depok,100,0.29,2024-12-18
+D001,Influenza,Bekasi,72,0.7,2025-03-23
+D001,Influenza,Bekasi,105,0.6,2025-03-18
+D001,Influenza,Bekasi,102,0.91,2025-03-13
+D001,Influenza,Bekasi,35,0.9,2025-03-08
+D001,Influenza,Bekasi,48,0.96,2025-03-03
+D001,Influenza,Bekasi,117,0.34,2025-02-26
+D001,Influenza,Bekasi,85,0.81,2025-02-21
+D001,Influenza,Bekasi,120,0.94,2025-02-16
+D001,Influenza,Bekasi,27,0.5,2025-02-11
+D001,Influenza,Bekasi,137,0.32,2025-02-06
+D001,Influenza,Bekasi,136,0.68,2025-02-01
+D001,Influenza,Bekasi,52,0.53,2025-01-27
+D001,Influenza,Bekasi,57,0.43,2025-01-22
+D001,Influenza,Bekasi,125,0.78,2025-01-17
+D001,Influenza,Bekasi,133,0.61,2025-01-12
+D001,Influenza,Bekasi,23,0.47,2025-01-07
+D001,Influenza,Bekasi,117,0.98,2025-01-02
+D001,Influenza,Bekasi,106,0.23,2024-12-28
+D001,Influenza,Bekasi,49,0.73,2024-12-23
+D001,Influenza,Bekasi,78,0.23,2024-12-18
+D002,Diabetes,Bekasi,105,0.28,2025-03-23
+D002,Diabetes,Bekasi,20,0.93,2025-03-18
+D002,Diabetes,Bekasi,45,0.23,2025-03-13
+D002,Diabetes,Bekasi,138,0.28,2025-03-08
+D002,Diabetes,Bekasi,14,0.9,2025-03-03
+D002,Diabetes,Bekasi,22,0.44,2025-02-26
+D002,Diabetes,Bekasi,72,0.51,2025-02-21
+D002,Diabetes,Bekasi,111,0.32,2025-02-16
+D002,Diabetes,Bekasi,19,0.46,2025-02-11
+D002,Diabetes,Bekasi,91,0.42,2025-02-06
+D002,Diabetes,Bekasi,96,0.7,2025-02-01
+D002,Diabetes,Bekasi,76,0.27,2025-01-27
+D002,Diabetes,Bekasi,51,0.44,2025-01-22
+D002,Diabetes,Bekasi,130,0.85,2025-01-17
+D002,Diabetes,Bekasi,87,0.63,2025-01-12
+D002,Diabetes,Bekasi,48,0.53,2025-01-07
+D002,Diabetes,Bekasi,20,0.97,2025-01-02
+D002,Diabetes,Bekasi,126,0.46,2024-12-28
+D002,Diabetes,Bekasi,141,0.26,2024-12-23
+D002,Diabetes,Bekasi,92,0.41,2024-12-18
+D003,Hypertension,Bekasi,52,0.68,2025-03-23
+D003,Hypertension,Bekasi,50,0.62,2025-03-18
+D003,Hypertension,Bekasi,49,0.98,2025-03-13
+D003,Hypertension,Bekasi,51,0.99,2025-03-08
+D003,Hypertension,Bekasi,140,0.22,2025-03-03
+D003,Hypertension,Bekasi,33,0.9,2025-02-26
+D003,Hypertension,Bekasi,30,0.64,2025-02-21
+D003,Hypertension,Bekasi,134,0.69,2025-02-16
+D003,Hypertension,Bekasi,32,0.65,2025-02-11
+D003,Hypertension,Bekasi,30,0.4,2025-02-06
+D003,Hypertension,Bekasi,67,0.91,2025-02-01
+D003,Hypertension,Bekasi,68,0.48,2025-01-27
+D003,Hypertension,Bekasi,103,0.74,2025-01-22
+D003,Hypertension,Bekasi,73,0.88,2025-01-17
+D003,Hypertension,Bekasi,86,0.86,2025-01-12
+D003,Hypertension,Bekasi,21,0.55,2025-01-07
+D003,Hypertension,Bekasi,54,0.72,2025-01-02
+D003,Hypertension,Bekasi,63,0.99,2024-12-28
+D003,Hypertension,Bekasi,122,0.41,2024-12-23
+D003,Hypertension,Bekasi,41,0.45,2024-12-18
+D004,Tuberculosis,Bekasi,64,0.55,2025-03-23
+D004,Tuberculosis,Bekasi,49,0.42,2025-03-18
+D004,Tuberculosis,Bekasi,123,0.33,2025-03-13
+D004,Tuberculosis,Bekasi,47,0.78,2025-03-08
+D004,Tuberculosis,Bekasi,43,0.48,2025-03-03
+D004,Tuberculosis,Bekasi,25,0.5,2025-02-26
+D004,Tuberculosis,Bekasi,23,0.86,2025-02-21
+D004,Tuberculosis,Bekasi,27,0.95,2025-02-16
+D004,Tuberculosis,Bekasi,65,0.31,2025-02-11
+D004,Tuberculosis,Bekasi,99,0.73,2025-02-06
+D004,Tuberculosis,Bekasi,31,0.95,2025-02-01
+D004,Tuberculosis,Bekasi,148,0.46,2025-01-27
+D004,Tuberculosis,Bekasi,94,0.89,2025-01-22
+D004,Tuberculosis,Bekasi,145,0.55,2025-01-17
+D004,Tuberculosis,Bekasi,15,0.76,2025-01-12
+D004,Tuberculosis,Bekasi,22,0.81,2025-01-07
+D004,Tuberculosis,Bekasi,130,0.24,2025-01-02
+D004,Tuberculosis,Bekasi,35,0.7,2024-12-28
+D004,Tuberculosis,Bekasi,30,0.83,2024-12-23
+D004,Tuberculosis,Bekasi,41,0.32,2024-12-18
+D005,Dengue Fever,Bekasi,35,0.26,2025-03-23
+D005,Dengue Fever,Bekasi,125,0.75,2025-03-18
+D005,Dengue Fever,Bekasi,39,0.41,2025-03-13
+D005,Dengue Fever,Bekasi,14,0.99,2025-03-08
+D005,Dengue Fever,Bekasi,115,0.75,2025-03-03
+D005,Dengue Fever,Bekasi,147,0.27,2025-02-26
+D005,Dengue Fever,Bekasi,115,0.29,2025-02-21
+D005,Dengue Fever,Bekasi,65,0.2,2025-02-16
+D005,Dengue Fever,Bekasi,131,0.84,2025-02-11
+D005,Dengue Fever,Bekasi,28,0.74,2025-02-06
+D005,Dengue Fever,Bekasi,18,0.24,2025-02-01
+D005,Dengue Fever,Bekasi,83,0.91,2025-01-27
+D005,Dengue Fever,Bekasi,122,0.31,2025-01-22
+D005,Dengue Fever,Bekasi,143,0.57,2025-01-17
+D005,Dengue Fever,Bekasi,123,0.29,2025-01-12
+D005,Dengue Fever,Bekasi,66,0.91,2025-01-07
+D005,Dengue Fever,Bekasi,60,0.22,2025-01-02
+D005,Dengue Fever,Bekasi,29,0.66,2024-12-28
+D005,Dengue Fever,Bekasi,11,0.76,2024-12-23
+D005,Dengue Fever,Bekasi,120,0.64,2024-12-18
+D006,Pneumonia,Bekasi,141,1.0,2025-03-23
+D006,Pneumonia,Bekasi,34,0.31,2025-03-18
+D006,Pneumonia,Bekasi,18,0.22,2025-03-13
+D006,Pneumonia,Bekasi,35,0.22,2025-03-08
+D006,Pneumonia,Bekasi,27,0.98,2025-03-03
+D006,Pneumonia,Bekasi,11,0.21,2025-02-26
+D006,Pneumonia,Bekasi,116,0.26,2025-02-21
+D006,Pneumonia,Bekasi,84,0.54,2025-02-16
+D006,Pneumonia,Bekasi,15,0.73,2025-02-11
+D006,Pneumonia,Bekasi,52,0.62,2025-02-06
+D006,Pneumonia,Bekasi,18,0.36,2025-02-01
+D006,Pneumonia,Bekasi,126,0.21,2025-01-27
+D006,Pneumonia,Bekasi,139,0.45,2025-01-22
+D006,Pneumonia,Bekasi,90,0.26,2025-01-17
+D006,Pneumonia,Bekasi,74,0.21,2025-01-12
+D006,Pneumonia,Bekasi,143,0.49,2025-01-07
+D006,Pneumonia,Bekasi,51,0.43,2025-01-02
+D006,Pneumonia,Bekasi,113,0.54,2024-12-28
+D006,Pneumonia,Bekasi,141,0.95,2024-12-23
+D006,Pneumonia,Bekasi,125,0.76,2024-12-18
+D007,Asthma,Bekasi,73,0.37,2025-03-23
+D007,Asthma,Bekasi,137,0.61,2025-03-18
+D007,Asthma,Bekasi,110,0.77,2025-03-13
+D007,Asthma,Bekasi,18,0.35,2025-03-08
+D007,Asthma,Bekasi,63,0.98,2025-03-03
+D007,Asthma,Bekasi,25,0.76,2025-02-26
+D007,Asthma,Bekasi,111,0.86,2025-02-21
+D007,Asthma,Bekasi,118,0.91,2025-02-16
+D007,Asthma,Bekasi,34,0.31,2025-02-11
+D007,Asthma,Bekasi,86,0.91,2025-02-06
+D007,Asthma,Bekasi,43,0.28,2025-02-01
+D007,Asthma,Bekasi,90,0.98,2025-01-27
+D007,Asthma,Bekasi,86,0.66,2025-01-22
+D007,Asthma,Bekasi,64,0.65,2025-01-17
+D007,Asthma,Bekasi,97,0.3,2025-01-12
+D007,Asthma,Bekasi,18,0.99,2025-01-07
+D007,Asthma,Bekasi,12,0.83,2025-01-02
+D007,Asthma,Bekasi,39,0.4,2024-12-28
+D007,Asthma,Bekasi,132,0.4,2024-12-23
+D007,Asthma,Bekasi,80,0.83,2024-12-18
+D008,Hepatitis B,Bekasi,38,0.35,2025-03-23
+D008,Hepatitis B,Bekasi,99,0.71,2025-03-18
+D008,Hepatitis B,Bekasi,51,0.41,2025-03-13
+D008,Hepatitis B,Bekasi,27,0.64,2025-03-08
+D008,Hepatitis B,Bekasi,36,0.6,2025-03-03
+D008,Hepatitis B,Bekasi,63,0.36,2025-02-26
+D008,Hepatitis B,Bekasi,72,0.51,2025-02-21
+D008,Hepatitis B,Bekasi,93,0.48,2025-02-16
+D008,Hepatitis B,Bekasi,51,0.65,2025-02-11
+D008,Hepatitis B,Bekasi,83,0.7,2025-02-06
+D008,Hepatitis B,Bekasi,34,0.49,2025-02-01
+D008,Hepatitis B,Bekasi,131,0.32,2025-01-27
+D008,Hepatitis B,Bekasi,40,0.6,2025-01-22
+D008,Hepatitis B,Bekasi,124,0.91,2025-01-17
+D008,Hepatitis B,Bekasi,61,0.8,2025-01-12
+D008,Hepatitis B,Bekasi,95,0.21,2025-01-07
+D008,Hepatitis B,Bekasi,30,0.3,2025-01-02
+D008,Hepatitis B,Bekasi,100,0.37,2024-12-28
+D008,Hepatitis B,Bekasi,145,0.7,2024-12-23
+D008,Hepatitis B,Bekasi,71,0.45,2024-12-18
+D009,Hepatitis C,Bekasi,83,0.42,2025-03-23
+D009,Hepatitis C,Bekasi,69,0.79,2025-03-18
+D009,Hepatitis C,Bekasi,124,0.61,2025-03-13
+D009,Hepatitis C,Bekasi,146,0.64,2025-03-08
+D009,Hepatitis C,Bekasi,130,0.62,2025-03-03
+D009,Hepatitis C,Bekasi,10,0.29,2025-02-26
+D009,Hepatitis C,Bekasi,82,0.23,2025-02-21
+D009,Hepatitis C,Bekasi,54,1.0,2025-02-16
+D009,Hepatitis C,Bekasi,95,0.65,2025-02-11
+D009,Hepatitis C,Bekasi,112,0.81,2025-02-06
+D009,Hepatitis C,Bekasi,128,0.68,2025-02-01
+D009,Hepatitis C,Bekasi,90,0.91,2025-01-27
+D009,Hepatitis C,Bekasi,19,0.37,2025-01-22
+D009,Hepatitis C,Bekasi,120,0.56,2025-01-17
+D009,Hepatitis C,Bekasi,80,0.88,2025-01-12
+D009,Hepatitis C,Bekasi,20,0.49,2025-01-07
+D009,Hepatitis C,Bekasi,133,0.72,2025-01-02
+D009,Hepatitis C,Bekasi,102,0.81,2024-12-28
+D009,Hepatitis C,Bekasi,20,0.38,2024-12-23
+D009,Hepatitis C,Bekasi,17,0.97,2024-12-18
+D010,Covid-19,Bekasi,79,0.63,2025-03-23
+D010,Covid-19,Bekasi,133,0.61,2025-03-18
+D010,Covid-19,Bekasi,20,0.4,2025-03-13
+D010,Covid-19,Bekasi,94,0.42,2025-03-08
+D010,Covid-19,Bekasi,44,0.8,2025-03-03
+D010,Covid-19,Bekasi,118,0.92,2025-02-26
+D010,Covid-19,Bekasi,19,0.48,2025-02-21
+D010,Covid-19,Bekasi,94,0.83,2025-02-16
+D010,Covid-19,Bekasi,149,0.41,2025-02-11
+D010,Covid-19,Bekasi,83,0.86,2025-02-06
+D010,Covid-19,Bekasi,149,0.54,2025-02-01
+D010,Covid-19,Bekasi,139,0.73,2025-01-27
+D010,Covid-19,Bekasi,78,0.82,2025-01-22
+D010,Covid-19,Bekasi,125,0.27,2025-01-17
+D010,Covid-19,Bekasi,111,0.42,2025-01-12
+D010,Covid-19,Bekasi,132,0.81,2025-01-07
+D010,Covid-19,Bekasi,12,0.84,2025-01-02
+D010,Covid-19,Bekasi,19,0.32,2024-12-28
+D010,Covid-19,Bekasi,40,0.32,2024-12-23
+D010,Covid-19,Bekasi,117,0.77,2024-12-18
+D011,Heart Disease,Bekasi,139,0.73,2025-03-23
+D011,Heart Disease,Bekasi,15,0.63,2025-03-18
+D011,Heart Disease,Bekasi,70,0.45,2025-03-13
+D011,Heart Disease,Bekasi,119,0.93,2025-03-08
+D011,Heart Disease,Bekasi,142,0.49,2025-03-03
+D011,Heart Disease,Bekasi,149,0.73,2025-02-26
+D011,Heart Disease,Bekasi,68,0.72,2025-02-21
+D011,Heart Disease,Bekasi,139,0.95,2025-02-16
+D011,Heart Disease,Bekasi,73,0.92,2025-02-11
+D011,Heart Disease,Bekasi,81,0.78,2025-02-06
+D011,Heart Disease,Bekasi,30,0.92,2025-02-01
+D011,Heart Disease,Bekasi,88,0.57,2025-01-27
+D011,Heart Disease,Bekasi,51,0.28,2025-01-22
+D011,Heart Disease,Bekasi,97,0.3,2025-01-17
+D011,Heart Disease,Bekasi,88,0.63,2025-01-12
+D011,Heart Disease,Bekasi,12,0.87,2025-01-07
+D011,Heart Disease,Bekasi,73,0.83,2025-01-02
+D011,Heart Disease,Bekasi,132,0.78,2024-12-28
+D011,Heart Disease,Bekasi,14,0.48,2024-12-23
+D011,Heart Disease,Bekasi,67,0.89,2024-12-18
+D012,Stroke,Bekasi,114,0.23,2025-03-23
+D012,Stroke,Bekasi,72,0.66,2025-03-18
+D012,Stroke,Bekasi,117,0.92,2025-03-13
+D012,Stroke,Bekasi,31,0.82,2025-03-08
+D012,Stroke,Bekasi,136,0.45,2025-03-03
+D012,Stroke,Bekasi,26,0.58,2025-02-26
+D012,Stroke,Bekasi,142,0.96,2025-02-21
+D012,Stroke,Bekasi,146,0.84,2025-02-16
+D012,Stroke,Bekasi,40,0.95,2025-02-11
+D012,Stroke,Bekasi,67,0.44,2025-02-06
+D012,Stroke,Bekasi,97,0.59,2025-02-01
+D012,Stroke,Bekasi,34,0.83,2025-01-27
+D012,Stroke,Bekasi,55,0.3,2025-01-22
+D012,Stroke,Bekasi,28,0.69,2025-01-17
+D012,Stroke,Bekasi,99,0.75,2025-01-12
+D012,Stroke,Bekasi,143,0.78,2025-01-07
+D012,Stroke,Bekasi,126,0.97,2025-01-02
+D012,Stroke,Bekasi,109,0.46,2024-12-28
+D012,Stroke,Bekasi,82,0.67,2024-12-23
+D012,Stroke,Bekasi,20,0.43,2024-12-18
+D013,Malaria,Bekasi,110,0.64,2025-03-23
+D013,Malaria,Bekasi,109,0.61,2025-03-18
+D013,Malaria,Bekasi,107,0.22,2025-03-13
+D013,Malaria,Bekasi,45,0.57,2025-03-08
+D013,Malaria,Bekasi,37,1.0,2025-03-03
+D013,Malaria,Bekasi,14,0.74,2025-02-26
+D013,Malaria,Bekasi,18,0.49,2025-02-21
+D013,Malaria,Bekasi,66,0.97,2025-02-16
+D013,Malaria,Bekasi,112,0.36,2025-02-11
+D013,Malaria,Bekasi,91,0.23,2025-02-06
+D013,Malaria,Bekasi,74,0.43,2025-02-01
+D013,Malaria,Bekasi,43,0.31,2025-01-27
+D013,Malaria,Bekasi,145,0.54,2025-01-22
+D013,Malaria,Bekasi,103,0.31,2025-01-17
+D013,Malaria,Bekasi,109,0.49,2025-01-12
+D013,Malaria,Bekasi,126,0.27,2025-01-07
+D013,Malaria,Bekasi,40,0.76,2025-01-02
+D013,Malaria,Bekasi,105,0.5,2024-12-28
+D013,Malaria,Bekasi,130,0.4,2024-12-23
+D013,Malaria,Bekasi,124,0.43,2024-12-18
+D014,Measles,Bekasi,136,0.48,2025-03-23
+D014,Measles,Bekasi,138,0.37,2025-03-18
+D014,Measles,Bekasi,86,0.63,2025-03-13
+D014,Measles,Bekasi,14,0.25,2025-03-08
+D014,Measles,Bekasi,12,0.74,2025-03-03
+D014,Measles,Bekasi,120,0.69,2025-02-26
+D014,Measles,Bekasi,139,0.26,2025-02-21
+D014,Measles,Bekasi,38,0.51,2025-02-16
+D014,Measles,Bekasi,73,0.24,2025-02-11
+D014,Measles,Bekasi,147,0.3,2025-02-06
+D014,Measles,Bekasi,86,0.27,2025-02-01
+D014,Measles,Bekasi,103,0.81,2025-01-27
+D014,Measles,Bekasi,74,0.59,2025-01-22
+D014,Measles,Bekasi,74,0.38,2025-01-17
+D014,Measles,Bekasi,57,0.22,2025-01-12
+D014,Measles,Bekasi,145,0.44,2025-01-07
+D014,Measles,Bekasi,124,0.57,2025-01-02
+D014,Measles,Bekasi,13,0.63,2024-12-28
+D014,Measles,Bekasi,99,0.35,2024-12-23
+D014,Measles,Bekasi,138,0.36,2024-12-18
+D015,Chickenpox,Bekasi,121,0.62,2025-03-23
+D015,Chickenpox,Bekasi,103,0.63,2025-03-18
+D015,Chickenpox,Bekasi,130,0.27,2025-03-13
+D015,Chickenpox,Bekasi,128,0.53,2025-03-08
+D015,Chickenpox,Bekasi,17,0.3,2025-03-03
+D015,Chickenpox,Bekasi,36,0.63,2025-02-26
+D015,Chickenpox,Bekasi,117,0.37,2025-02-21
+D015,Chickenpox,Bekasi,18,0.56,2025-02-16
+D015,Chickenpox,Bekasi,54,0.63,2025-02-11
+D015,Chickenpox,Bekasi,20,0.55,2025-02-06
+D015,Chickenpox,Bekasi,139,0.74,2025-02-01
+D015,Chickenpox,Bekasi,119,0.35,2025-01-27
+D015,Chickenpox,Bekasi,52,0.53,2025-01-22
+D015,Chickenpox,Bekasi,111,0.3,2025-01-17
+D015,Chickenpox,Bekasi,90,0.65,2025-01-12
+D015,Chickenpox,Bekasi,84,0.41,2025-01-07
+D015,Chickenpox,Bekasi,118,0.73,2025-01-02
+D015,Chickenpox,Bekasi,34,0.66,2024-12-28
+D015,Chickenpox,Bekasi,84,0.73,2024-12-23
+D015,Chickenpox,Bekasi,76,0.33,2024-12-18
+D016,Chronic Kidney Disease,Bekasi,113,0.51,2025-03-23
+D016,Chronic Kidney Disease,Bekasi,79,0.28,2025-03-18
+D016,Chronic Kidney Disease,Bekasi,75,0.72,2025-03-13
+D016,Chronic Kidney Disease,Bekasi,126,0.67,2025-03-08
+D016,Chronic Kidney Disease,Bekasi,30,0.99,2025-03-03
+D016,Chronic Kidney Disease,Bekasi,107,0.21,2025-02-26
+D016,Chronic Kidney Disease,Bekasi,93,0.75,2025-02-21
+D016,Chronic Kidney Disease,Bekasi,24,0.76,2025-02-16
+D016,Chronic Kidney Disease,Bekasi,79,0.45,2025-02-11
+D016,Chronic Kidney Disease,Bekasi,96,0.22,2025-02-06
+D016,Chronic Kidney Disease,Bekasi,54,0.22,2025-02-01
+D016,Chronic Kidney Disease,Bekasi,136,0.83,2025-01-27
+D016,Chronic Kidney Disease,Bekasi,26,0.63,2025-01-22
+D016,Chronic Kidney Disease,Bekasi,45,0.44,2025-01-17
+D016,Chronic Kidney Disease,Bekasi,117,0.7,2025-01-12
+D016,Chronic Kidney Disease,Bekasi,55,0.37,2025-01-07
+D016,Chronic Kidney Disease,Bekasi,116,0.31,2025-01-02
+D016,Chronic Kidney Disease,Bekasi,143,0.42,2024-12-28
+D016,Chronic Kidney Disease,Bekasi,54,0.91,2024-12-23
+D016,Chronic Kidney Disease,Bekasi,21,0.89,2024-12-18
+D017,Liver Cirrhosis,Bekasi,113,0.67,2025-03-23
+D017,Liver Cirrhosis,Bekasi,49,0.37,2025-03-18
+D017,Liver Cirrhosis,Bekasi,102,0.95,2025-03-13
+D017,Liver Cirrhosis,Bekasi,117,0.72,2025-03-08
+D017,Liver Cirrhosis,Bekasi,83,0.47,2025-03-03
+D017,Liver Cirrhosis,Bekasi,114,0.36,2025-02-26
+D017,Liver Cirrhosis,Bekasi,107,0.68,2025-02-21
+D017,Liver Cirrhosis,Bekasi,21,0.73,2025-02-16
+D017,Liver Cirrhosis,Bekasi,31,0.86,2025-02-11
+D017,Liver Cirrhosis,Bekasi,143,0.4,2025-02-06
+D017,Liver Cirrhosis,Bekasi,132,0.72,2025-02-01
+D017,Liver Cirrhosis,Bekasi,126,0.87,2025-01-27
+D017,Liver Cirrhosis,Bekasi,132,0.63,2025-01-22
+D017,Liver Cirrhosis,Bekasi,65,0.74,2025-01-17
+D017,Liver Cirrhosis,Bekasi,57,0.45,2025-01-12
+D017,Liver Cirrhosis,Bekasi,85,0.74,2025-01-07
+D017,Liver Cirrhosis,Bekasi,41,0.82,2025-01-02
+D017,Liver Cirrhosis,Bekasi,94,0.33,2024-12-28
+D017,Liver Cirrhosis,Bekasi,111,0.36,2024-12-23
+D017,Liver Cirrhosis,Bekasi,12,0.45,2024-12-18
+D018,Bronchitis,Bekasi,130,0.26,2025-03-23
+D018,Bronchitis,Bekasi,83,0.66,2025-03-18
+D018,Bronchitis,Bekasi,141,0.59,2025-03-13
+D018,Bronchitis,Bekasi,136,0.94,2025-03-08
+D018,Bronchitis,Bekasi,24,0.97,2025-03-03
+D018,Bronchitis,Bekasi,119,0.62,2025-02-26
+D018,Bronchitis,Bekasi,27,0.78,2025-02-21
+D018,Bronchitis,Bekasi,79,0.24,2025-02-16
+D018,Bronchitis,Bekasi,64,0.73,2025-02-11
+D018,Bronchitis,Bekasi,50,0.51,2025-02-06
+D018,Bronchitis,Bekasi,145,0.93,2025-02-01
+D018,Bronchitis,Bekasi,79,0.34,2025-01-27
+D018,Bronchitis,Bekasi,126,0.54,2025-01-22
+D018,Bronchitis,Bekasi,104,0.91,2025-01-17
+D018,Bronchitis,Bekasi,124,0.47,2025-01-12
+D018,Bronchitis,Bekasi,28,0.41,2025-01-07
+D018,Bronchitis,Bekasi,133,0.77,2025-01-02
+D018,Bronchitis,Bekasi,31,0.5,2024-12-28
+D018,Bronchitis,Bekasi,14,0.36,2024-12-23
+D018,Bronchitis,Bekasi,33,0.51,2024-12-18
+D019,Depression,Bekasi,37,0.35,2025-03-23
+D019,Depression,Bekasi,28,0.83,2025-03-18
+D019,Depression,Bekasi,79,0.2,2025-03-13
+D019,Depression,Bekasi,17,0.55,2025-03-08
+D019,Depression,Bekasi,81,0.32,2025-03-03
+D019,Depression,Bekasi,19,0.78,2025-02-26
+D019,Depression,Bekasi,48,0.62,2025-02-21
+D019,Depression,Bekasi,141,0.68,2025-02-16
+D019,Depression,Bekasi,25,0.3,2025-02-11
+D019,Depression,Bekasi,30,0.34,2025-02-06
+D019,Depression,Bekasi,33,0.95,2025-02-01
+D019,Depression,Bekasi,35,0.27,2025-01-27
+D019,Depression,Bekasi,70,0.9,2025-01-22
+D019,Depression,Bekasi,143,0.22,2025-01-17
+D019,Depression,Bekasi,18,0.44,2025-01-12
+D019,Depression,Bekasi,25,0.6,2025-01-07
+D019,Depression,Bekasi,93,0.2,2025-01-02
+D019,Depression,Bekasi,137,0.96,2024-12-28
+D019,Depression,Bekasi,50,0.24,2024-12-23
+D019,Depression,Bekasi,25,0.47,2024-12-18
+D020,Anxiety,Bekasi,19,0.93,2025-03-23
+D020,Anxiety,Bekasi,42,0.43,2025-03-18
+D020,Anxiety,Bekasi,59,0.46,2025-03-13
+D020,Anxiety,Bekasi,97,1.0,2025-03-08
+D020,Anxiety,Bekasi,107,0.32,2025-03-03
+D020,Anxiety,Bekasi,141,0.81,2025-02-26
+D020,Anxiety,Bekasi,91,0.23,2025-02-21
+D020,Anxiety,Bekasi,114,0.75,2025-02-16
+D020,Anxiety,Bekasi,119,0.67,2025-02-11
+D020,Anxiety,Bekasi,52,0.27,2025-02-06
+D020,Anxiety,Bekasi,55,0.77,2025-02-01
+D020,Anxiety,Bekasi,149,0.86,2025-01-27
+D020,Anxiety,Bekasi,98,0.89,2025-01-22
+D020,Anxiety,Bekasi,133,0.9,2025-01-17
+D020,Anxiety,Bekasi,108,0.47,2025-01-12
+D020,Anxiety,Bekasi,133,0.79,2025-01-07
+D020,Anxiety,Bekasi,23,0.35,2025-01-02
+D020,Anxiety,Bekasi,137,0.76,2024-12-28
+D020,Anxiety,Bekasi,67,0.31,2024-12-23
+D020,Anxiety,Bekasi,115,0.53,2024-12-18
+D001,Influenza,Tangerang,11,0.21,2025-03-23
+D001,Influenza,Tangerang,56,0.45,2025-03-18
+D001,Influenza,Tangerang,34,0.96,2025-03-13
+D001,Influenza,Tangerang,96,0.8,2025-03-08
+D001,Influenza,Tangerang,89,0.5,2025-03-03
+D001,Influenza,Tangerang,140,0.33,2025-02-26
+D001,Influenza,Tangerang,140,0.78,2025-02-21
+D001,Influenza,Tangerang,30,0.56,2025-02-16
+D001,Influenza,Tangerang,105,0.22,2025-02-11
+D001,Influenza,Tangerang,56,0.95,2025-02-06
+D001,Influenza,Tangerang,140,0.99,2025-02-01
+D001,Influenza,Tangerang,84,0.83,2025-01-27
+D001,Influenza,Tangerang,11,0.77,2025-01-22
+D001,Influenza,Tangerang,62,0.83,2025-01-17
+D001,Influenza,Tangerang,138,0.39,2025-01-12
+D001,Influenza,Tangerang,66,0.67,2025-01-07
+D001,Influenza,Tangerang,12,0.29,2025-01-02
+D001,Influenza,Tangerang,77,0.94,2024-12-28
+D001,Influenza,Tangerang,77,0.83,2024-12-23
+D001,Influenza,Tangerang,21,0.78,2024-12-18
+D002,Diabetes,Tangerang,89,0.8,2025-03-23
+D002,Diabetes,Tangerang,57,0.4,2025-03-18
+D002,Diabetes,Tangerang,93,0.64,2025-03-13
+D002,Diabetes,Tangerang,56,0.52,2025-03-08
+D002,Diabetes,Tangerang,52,0.6,2025-03-03
+D002,Diabetes,Tangerang,147,0.96,2025-02-26
+D002,Diabetes,Tangerang,139,0.64,2025-02-21
+D002,Diabetes,Tangerang,107,0.46,2025-02-16
+D002,Diabetes,Tangerang,28,0.81,2025-02-11
+D002,Diabetes,Tangerang,143,0.63,2025-02-06
+D002,Diabetes,Tangerang,147,0.98,2025-02-01
+D002,Diabetes,Tangerang,132,0.89,2025-01-27
+D002,Diabetes,Tangerang,136,0.27,2025-01-22
+D002,Diabetes,Tangerang,119,0.51,2025-01-17
+D002,Diabetes,Tangerang,70,0.67,2025-01-12
+D002,Diabetes,Tangerang,139,0.36,2025-01-07
+D002,Diabetes,Tangerang,31,0.5,2025-01-02
+D002,Diabetes,Tangerang,72,0.85,2024-12-28
+D002,Diabetes,Tangerang,126,0.48,2024-12-23
+D002,Diabetes,Tangerang,39,0.27,2024-12-18
+D003,Hypertension,Tangerang,99,0.32,2025-03-23
+D003,Hypertension,Tangerang,149,0.44,2025-03-18
+D003,Hypertension,Tangerang,102,0.38,2025-03-13
+D003,Hypertension,Tangerang,65,0.82,2025-03-08
+D003,Hypertension,Tangerang,130,0.44,2025-03-03
+D003,Hypertension,Tangerang,59,0.69,2025-02-26
+D003,Hypertension,Tangerang,85,0.98,2025-02-21
+D003,Hypertension,Tangerang,144,0.44,2025-02-16
+D003,Hypertension,Tangerang,120,0.54,2025-02-11
+D003,Hypertension,Tangerang,115,0.28,2025-02-06
+D003,Hypertension,Tangerang,74,0.53,2025-02-01
+D003,Hypertension,Tangerang,67,0.29,2025-01-27
+D003,Hypertension,Tangerang,11,0.37,2025-01-22
+D003,Hypertension,Tangerang,68,0.92,2025-01-17
+D003,Hypertension,Tangerang,40,0.54,2025-01-12
+D003,Hypertension,Tangerang,10,0.83,2025-01-07
+D003,Hypertension,Tangerang,97,0.94,2025-01-02
+D003,Hypertension,Tangerang,18,0.59,2024-12-28
+D003,Hypertension,Tangerang,93,0.85,2024-12-23
+D003,Hypertension,Tangerang,72,0.32,2024-12-18
+D004,Tuberculosis,Tangerang,147,0.59,2025-03-23
+D004,Tuberculosis,Tangerang,49,0.85,2025-03-18
+D004,Tuberculosis,Tangerang,68,0.28,2025-03-13
+D004,Tuberculosis,Tangerang,125,0.25,2025-03-08
+D004,Tuberculosis,Tangerang,58,0.82,2025-03-03
+D004,Tuberculosis,Tangerang,115,0.66,2025-02-26
+D004,Tuberculosis,Tangerang,39,0.76,2025-02-21
+D004,Tuberculosis,Tangerang,59,0.6,2025-02-16
+D004,Tuberculosis,Tangerang,105,0.3,2025-02-11
+D004,Tuberculosis,Tangerang,31,0.26,2025-02-06
+D004,Tuberculosis,Tangerang,90,0.95,2025-02-01
+D004,Tuberculosis,Tangerang,141,0.59,2025-01-27
+D004,Tuberculosis,Tangerang,72,0.74,2025-01-22
+D004,Tuberculosis,Tangerang,10,0.65,2025-01-17
+D004,Tuberculosis,Tangerang,90,0.67,2025-01-12
+D004,Tuberculosis,Tangerang,121,0.46,2025-01-07
+D004,Tuberculosis,Tangerang,68,0.58,2025-01-02
+D004,Tuberculosis,Tangerang,100,0.33,2024-12-28
+D004,Tuberculosis,Tangerang,45,0.75,2024-12-23
+D004,Tuberculosis,Tangerang,108,0.9,2024-12-18
+D005,Dengue Fever,Tangerang,127,0.31,2025-03-23
+D005,Dengue Fever,Tangerang,121,0.46,2025-03-18
+D005,Dengue Fever,Tangerang,136,0.93,2025-03-13
+D005,Dengue Fever,Tangerang,136,0.44,2025-03-08
+D005,Dengue Fever,Tangerang,68,0.78,2025-03-03
+D005,Dengue Fever,Tangerang,49,0.51,2025-02-26
+D005,Dengue Fever,Tangerang,130,0.84,2025-02-21
+D005,Dengue Fever,Tangerang,75,0.75,2025-02-16
+D005,Dengue Fever,Tangerang,90,0.42,2025-02-11
+D005,Dengue Fever,Tangerang,135,0.83,2025-02-06
+D005,Dengue Fever,Tangerang,114,0.24,2025-02-01
+D005,Dengue Fever,Tangerang,101,0.51,2025-01-27
+D005,Dengue Fever,Tangerang,87,0.78,2025-01-22
+D005,Dengue Fever,Tangerang,79,0.82,2025-01-17
+D005,Dengue Fever,Tangerang,138,0.84,2025-01-12
+D005,Dengue Fever,Tangerang,149,0.75,2025-01-07
+D005,Dengue Fever,Tangerang,62,0.48,2025-01-02
+D005,Dengue Fever,Tangerang,19,0.91,2024-12-28
+D005,Dengue Fever,Tangerang,92,0.86,2024-12-23
+D005,Dengue Fever,Tangerang,66,0.22,2024-12-18
+D006,Pneumonia,Tangerang,149,0.34,2025-03-23
+D006,Pneumonia,Tangerang,139,0.66,2025-03-18
+D006,Pneumonia,Tangerang,90,0.23,2025-03-13
+D006,Pneumonia,Tangerang,57,0.64,2025-03-08
+D006,Pneumonia,Tangerang,83,0.89,2025-03-03
+D006,Pneumonia,Tangerang,108,0.43,2025-02-26
+D006,Pneumonia,Tangerang,128,0.22,2025-02-21
+D006,Pneumonia,Tangerang,112,0.51,2025-02-16
+D006,Pneumonia,Tangerang,43,1.0,2025-02-11
+D006,Pneumonia,Tangerang,122,0.71,2025-02-06
+D006,Pneumonia,Tangerang,45,0.56,2025-02-01
+D006,Pneumonia,Tangerang,22,0.4,2025-01-27
+D006,Pneumonia,Tangerang,142,0.85,2025-01-22
+D006,Pneumonia,Tangerang,46,0.52,2025-01-17
+D006,Pneumonia,Tangerang,102,0.47,2025-01-12
+D006,Pneumonia,Tangerang,78,0.4,2025-01-07
+D006,Pneumonia,Tangerang,146,0.59,2025-01-02
+D006,Pneumonia,Tangerang,31,0.42,2024-12-28
+D006,Pneumonia,Tangerang,15,0.31,2024-12-23
+D006,Pneumonia,Tangerang,23,0.39,2024-12-18
+D007,Asthma,Tangerang,62,0.31,2025-03-23
+D007,Asthma,Tangerang,22,0.41,2025-03-18
+D007,Asthma,Tangerang,106,0.71,2025-03-13
+D007,Asthma,Tangerang,18,0.87,2025-03-08
+D007,Asthma,Tangerang,26,0.59,2025-03-03
+D007,Asthma,Tangerang,132,0.72,2025-02-26
+D007,Asthma,Tangerang,119,0.55,2025-02-21
+D007,Asthma,Tangerang,103,0.26,2025-02-16
+D007,Asthma,Tangerang,43,0.49,2025-02-11
+D007,Asthma,Tangerang,21,0.41,2025-02-06
+D007,Asthma,Tangerang,102,0.29,2025-02-01
+D007,Asthma,Tangerang,19,0.73,2025-01-27
+D007,Asthma,Tangerang,32,0.46,2025-01-22
+D007,Asthma,Tangerang,116,0.74,2025-01-17
+D007,Asthma,Tangerang,83,0.61,2025-01-12
+D007,Asthma,Tangerang,57,0.6,2025-01-07
+D007,Asthma,Tangerang,136,0.88,2025-01-02
+D007,Asthma,Tangerang,130,0.2,2024-12-28
+D007,Asthma,Tangerang,38,0.62,2024-12-23
+D007,Asthma,Tangerang,67,0.35,2024-12-18
+D008,Hepatitis B,Tangerang,79,0.54,2025-03-23
+D008,Hepatitis B,Tangerang,48,0.68,2025-03-18
+D008,Hepatitis B,Tangerang,68,0.32,2025-03-13
+D008,Hepatitis B,Tangerang,20,0.67,2025-03-08
+D008,Hepatitis B,Tangerang,93,0.28,2025-03-03
+D008,Hepatitis B,Tangerang,123,0.33,2025-02-26
+D008,Hepatitis B,Tangerang,114,0.77,2025-02-21
+D008,Hepatitis B,Tangerang,16,0.4,2025-02-16
+D008,Hepatitis B,Tangerang,53,0.47,2025-02-11
+D008,Hepatitis B,Tangerang,101,0.83,2025-02-06
+D008,Hepatitis B,Tangerang,99,0.68,2025-02-01
+D008,Hepatitis B,Tangerang,113,0.92,2025-01-27
+D008,Hepatitis B,Tangerang,135,0.53,2025-01-22
+D008,Hepatitis B,Tangerang,12,0.91,2025-01-17
+D008,Hepatitis B,Tangerang,111,0.7,2025-01-12
+D008,Hepatitis B,Tangerang,57,0.93,2025-01-07
+D008,Hepatitis B,Tangerang,144,0.92,2025-01-02
+D008,Hepatitis B,Tangerang,80,0.7,2024-12-28
+D008,Hepatitis B,Tangerang,121,0.28,2024-12-23
+D008,Hepatitis B,Tangerang,43,0.8,2024-12-18
+D009,Hepatitis C,Tangerang,36,0.36,2025-03-23
+D009,Hepatitis C,Tangerang,27,0.25,2025-03-18
+D009,Hepatitis C,Tangerang,149,0.93,2025-03-13
+D009,Hepatitis C,Tangerang,145,0.2,2025-03-08
+D009,Hepatitis C,Tangerang,56,0.68,2025-03-03
+D009,Hepatitis C,Tangerang,148,0.85,2025-02-26
+D009,Hepatitis C,Tangerang,88,0.57,2025-02-21
+D009,Hepatitis C,Tangerang,109,0.28,2025-02-16
+D009,Hepatitis C,Tangerang,131,0.25,2025-02-11
+D009,Hepatitis C,Tangerang,124,0.72,2025-02-06
+D009,Hepatitis C,Tangerang,34,0.6,2025-02-01
+D009,Hepatitis C,Tangerang,147,0.88,2025-01-27
+D009,Hepatitis C,Tangerang,146,0.41,2025-01-22
+D009,Hepatitis C,Tangerang,17,0.34,2025-01-17
+D009,Hepatitis C,Tangerang,28,0.53,2025-01-12
+D009,Hepatitis C,Tangerang,92,0.66,2025-01-07
+D009,Hepatitis C,Tangerang,99,0.21,2025-01-02
+D009,Hepatitis C,Tangerang,10,0.74,2024-12-28
+D009,Hepatitis C,Tangerang,146,0.91,2024-12-23
+D009,Hepatitis C,Tangerang,86,1.0,2024-12-18
+D010,Covid-19,Tangerang,22,0.37,2025-03-23
+D010,Covid-19,Tangerang,110,0.26,2025-03-18
+D010,Covid-19,Tangerang,116,0.89,2025-03-13
+D010,Covid-19,Tangerang,44,0.88,2025-03-08
+D010,Covid-19,Tangerang,65,0.28,2025-03-03
+D010,Covid-19,Tangerang,130,0.38,2025-02-26
+D010,Covid-19,Tangerang,107,0.98,2025-02-21
+D010,Covid-19,Tangerang,16,0.83,2025-02-16
+D010,Covid-19,Tangerang,137,0.45,2025-02-11
+D010,Covid-19,Tangerang,13,0.23,2025-02-06
+D010,Covid-19,Tangerang,118,0.57,2025-02-01
+D010,Covid-19,Tangerang,39,0.44,2025-01-27
+D010,Covid-19,Tangerang,19,0.77,2025-01-22
+D010,Covid-19,Tangerang,80,0.82,2025-01-17
+D010,Covid-19,Tangerang,100,0.33,2025-01-12
+D010,Covid-19,Tangerang,44,0.74,2025-01-07
+D010,Covid-19,Tangerang,111,0.82,2025-01-02
+D010,Covid-19,Tangerang,141,0.51,2024-12-28
+D010,Covid-19,Tangerang,113,0.58,2024-12-23
+D010,Covid-19,Tangerang,64,0.45,2024-12-18
+D011,Heart Disease,Tangerang,136,0.48,2025-03-23
+D011,Heart Disease,Tangerang,89,0.39,2025-03-18
+D011,Heart Disease,Tangerang,54,0.58,2025-03-13
+D011,Heart Disease,Tangerang,17,0.25,2025-03-08
+D011,Heart Disease,Tangerang,18,0.29,2025-03-03
+D011,Heart Disease,Tangerang,44,0.35,2025-02-26
+D011,Heart Disease,Tangerang,27,0.85,2025-02-21
+D011,Heart Disease,Tangerang,33,0.32,2025-02-16
+D011,Heart Disease,Tangerang,57,0.58,2025-02-11
+D011,Heart Disease,Tangerang,69,0.93,2025-02-06
+D011,Heart Disease,Tangerang,39,0.67,2025-02-01
+D011,Heart Disease,Tangerang,109,0.87,2025-01-27
+D011,Heart Disease,Tangerang,112,0.66,2025-01-22
+D011,Heart Disease,Tangerang,77,0.53,2025-01-17
+D011,Heart Disease,Tangerang,56,0.35,2025-01-12
+D011,Heart Disease,Tangerang,62,0.9,2025-01-07
+D011,Heart Disease,Tangerang,113,0.65,2025-01-02
+D011,Heart Disease,Tangerang,114,0.22,2024-12-28
+D011,Heart Disease,Tangerang,61,0.26,2024-12-23
+D011,Heart Disease,Tangerang,132,0.68,2024-12-18
+D012,Stroke,Tangerang,109,0.26,2025-03-23
+D012,Stroke,Tangerang,59,0.34,2025-03-18
+D012,Stroke,Tangerang,56,0.92,2025-03-13
+D012,Stroke,Tangerang,131,0.79,2025-03-08
+D012,Stroke,Tangerang,129,0.65,2025-03-03
+D012,Stroke,Tangerang,52,0.83,2025-02-26
+D012,Stroke,Tangerang,52,0.8,2025-02-21
+D012,Stroke,Tangerang,16,0.89,2025-02-16
+D012,Stroke,Tangerang,41,0.61,2025-02-11
+D012,Stroke,Tangerang,97,0.36,2025-02-06
+D012,Stroke,Tangerang,101,0.33,2025-02-01
+D012,Stroke,Tangerang,99,0.44,2025-01-27
+D012,Stroke,Tangerang,75,0.32,2025-01-22
+D012,Stroke,Tangerang,59,0.25,2025-01-17
+D012,Stroke,Tangerang,140,0.6,2025-01-12
+D012,Stroke,Tangerang,19,0.47,2025-01-07
+D012,Stroke,Tangerang,61,0.32,2025-01-02
+D012,Stroke,Tangerang,119,0.91,2024-12-28
+D012,Stroke,Tangerang,22,0.58,2024-12-23
+D012,Stroke,Tangerang,62,0.29,2024-12-18
+D013,Malaria,Tangerang,105,0.98,2025-03-23
+D013,Malaria,Tangerang,70,0.35,2025-03-18
+D013,Malaria,Tangerang,93,0.67,2025-03-13
+D013,Malaria,Tangerang,27,0.45,2025-03-08
+D013,Malaria,Tangerang,121,0.24,2025-03-03
+D013,Malaria,Tangerang,113,0.94,2025-02-26
+D013,Malaria,Tangerang,86,0.83,2025-02-21
+D013,Malaria,Tangerang,112,0.47,2025-02-16
+D013,Malaria,Tangerang,13,0.6,2025-02-11
+D013,Malaria,Tangerang,140,0.79,2025-02-06
+D013,Malaria,Tangerang,37,0.97,2025-02-01
+D013,Malaria,Tangerang,11,0.76,2025-01-27
+D013,Malaria,Tangerang,65,0.84,2025-01-22
+D013,Malaria,Tangerang,113,0.3,2025-01-17
+D013,Malaria,Tangerang,69,0.73,2025-01-12
+D013,Malaria,Tangerang,56,0.53,2025-01-07
+D013,Malaria,Tangerang,145,0.9,2025-01-02
+D013,Malaria,Tangerang,32,0.71,2024-12-28
+D013,Malaria,Tangerang,122,0.52,2024-12-23
+D013,Malaria,Tangerang,108,0.43,2024-12-18
+D014,Measles,Tangerang,124,0.35,2025-03-23
+D014,Measles,Tangerang,136,0.58,2025-03-18
+D014,Measles,Tangerang,43,0.43,2025-03-13
+D014,Measles,Tangerang,140,0.83,2025-03-08
+D014,Measles,Tangerang,98,0.4,2025-03-03
+D014,Measles,Tangerang,29,0.99,2025-02-26
+D014,Measles,Tangerang,38,0.61,2025-02-21
+D014,Measles,Tangerang,67,0.35,2025-02-16
+D014,Measles,Tangerang,149,0.98,2025-02-11
+D014,Measles,Tangerang,148,0.21,2025-02-06
+D014,Measles,Tangerang,148,0.32,2025-02-01
+D014,Measles,Tangerang,89,0.76,2025-01-27
+D014,Measles,Tangerang,10,0.56,2025-01-22
+D014,Measles,Tangerang,36,0.72,2025-01-17
+D014,Measles,Tangerang,15,0.48,2025-01-12
+D014,Measles,Tangerang,96,0.99,2025-01-07
+D014,Measles,Tangerang,66,0.47,2025-01-02
+D014,Measles,Tangerang,140,0.24,2024-12-28
+D014,Measles,Tangerang,16,0.93,2024-12-23
+D014,Measles,Tangerang,70,0.87,2024-12-18
+D015,Chickenpox,Tangerang,95,0.88,2025-03-23
+D015,Chickenpox,Tangerang,70,0.32,2025-03-18
+D015,Chickenpox,Tangerang,140,0.39,2025-03-13
+D015,Chickenpox,Tangerang,11,0.88,2025-03-08
+D015,Chickenpox,Tangerang,28,0.26,2025-03-03
+D015,Chickenpox,Tangerang,59,0.5,2025-02-26
+D015,Chickenpox,Tangerang,122,0.67,2025-02-21
+D015,Chickenpox,Tangerang,114,0.9,2025-02-16
+D015,Chickenpox,Tangerang,116,0.87,2025-02-11
+D015,Chickenpox,Tangerang,147,0.72,2025-02-06
+D015,Chickenpox,Tangerang,66,0.76,2025-02-01
+D015,Chickenpox,Tangerang,114,0.96,2025-01-27
+D015,Chickenpox,Tangerang,149,0.87,2025-01-22
+D015,Chickenpox,Tangerang,139,0.51,2025-01-17
+D015,Chickenpox,Tangerang,38,0.98,2025-01-12
+D015,Chickenpox,Tangerang,23,0.94,2025-01-07
+D015,Chickenpox,Tangerang,146,0.7,2025-01-02
+D015,Chickenpox,Tangerang,112,0.81,2024-12-28
+D015,Chickenpox,Tangerang,148,0.83,2024-12-23
+D015,Chickenpox,Tangerang,107,0.48,2024-12-18
+D016,Chronic Kidney Disease,Tangerang,56,0.51,2025-03-23
+D016,Chronic Kidney Disease,Tangerang,80,0.55,2025-03-18
+D016,Chronic Kidney Disease,Tangerang,21,0.96,2025-03-13
+D016,Chronic Kidney Disease,Tangerang,49,0.64,2025-03-08
+D016,Chronic Kidney Disease,Tangerang,10,0.76,2025-03-03
+D016,Chronic Kidney Disease,Tangerang,59,0.87,2025-02-26
+D016,Chronic Kidney Disease,Tangerang,118,0.58,2025-02-21
+D016,Chronic Kidney Disease,Tangerang,118,0.53,2025-02-16
+D016,Chronic Kidney Disease,Tangerang,90,0.23,2025-02-11
+D016,Chronic Kidney Disease,Tangerang,85,0.99,2025-02-06
+D016,Chronic Kidney Disease,Tangerang,72,0.97,2025-02-01
+D016,Chronic Kidney Disease,Tangerang,147,0.87,2025-01-27
+D016,Chronic Kidney Disease,Tangerang,120,0.95,2025-01-22
+D016,Chronic Kidney Disease,Tangerang,68,0.25,2025-01-17
+D016,Chronic Kidney Disease,Tangerang,142,0.2,2025-01-12
+D016,Chronic Kidney Disease,Tangerang,87,0.87,2025-01-07
+D016,Chronic Kidney Disease,Tangerang,21,0.83,2025-01-02
+D016,Chronic Kidney Disease,Tangerang,62,0.79,2024-12-28
+D016,Chronic Kidney Disease,Tangerang,127,0.46,2024-12-23
+D016,Chronic Kidney Disease,Tangerang,46,0.9,2024-12-18
+D017,Liver Cirrhosis,Tangerang,88,0.34,2025-03-23
+D017,Liver Cirrhosis,Tangerang,32,0.59,2025-03-18
+D017,Liver Cirrhosis,Tangerang,58,0.44,2025-03-13
+D017,Liver Cirrhosis,Tangerang,144,0.87,2025-03-08
+D017,Liver Cirrhosis,Tangerang,47,0.87,2025-03-03
+D017,Liver Cirrhosis,Tangerang,38,0.66,2025-02-26
+D017,Liver Cirrhosis,Tangerang,119,0.49,2025-02-21
+D017,Liver Cirrhosis,Tangerang,72,0.32,2025-02-16
+D017,Liver Cirrhosis,Tangerang,92,0.91,2025-02-11
+D017,Liver Cirrhosis,Tangerang,37,0.68,2025-02-06
+D017,Liver Cirrhosis,Tangerang,21,0.74,2025-02-01
+D017,Liver Cirrhosis,Tangerang,88,0.25,2025-01-27
+D017,Liver Cirrhosis,Tangerang,94,0.69,2025-01-22
+D017,Liver Cirrhosis,Tangerang,24,0.6,2025-01-17
+D017,Liver Cirrhosis,Tangerang,141,0.79,2025-01-12
+D017,Liver Cirrhosis,Tangerang,36,0.48,2025-01-07
+D017,Liver Cirrhosis,Tangerang,22,0.87,2025-01-02
+D017,Liver Cirrhosis,Tangerang,11,0.6,2024-12-28
+D017,Liver Cirrhosis,Tangerang,123,0.82,2024-12-23
+D017,Liver Cirrhosis,Tangerang,27,0.54,2024-12-18
+D018,Bronchitis,Tangerang,75,0.39,2025-03-23
+D018,Bronchitis,Tangerang,67,0.3,2025-03-18
+D018,Bronchitis,Tangerang,16,0.45,2025-03-13
+D018,Bronchitis,Tangerang,118,0.95,2025-03-08
+D018,Bronchitis,Tangerang,141,0.35,2025-03-03
+D018,Bronchitis,Tangerang,65,0.7,2025-02-26
+D018,Bronchitis,Tangerang,53,0.63,2025-02-21
+D018,Bronchitis,Tangerang,141,0.21,2025-02-16
+D018,Bronchitis,Tangerang,24,0.61,2025-02-11
+D018,Bronchitis,Tangerang,91,0.86,2025-02-06
+D018,Bronchitis,Tangerang,148,0.74,2025-02-01
+D018,Bronchitis,Tangerang,102,0.34,2025-01-27
+D018,Bronchitis,Tangerang,54,0.79,2025-01-22
+D018,Bronchitis,Tangerang,77,0.69,2025-01-17
+D018,Bronchitis,Tangerang,57,0.5,2025-01-12
+D018,Bronchitis,Tangerang,99,0.8,2025-01-07
+D018,Bronchitis,Tangerang,69,0.3,2025-01-02
+D018,Bronchitis,Tangerang,95,0.63,2024-12-28
+D018,Bronchitis,Tangerang,106,0.67,2024-12-23
+D018,Bronchitis,Tangerang,36,0.47,2024-12-18
+D019,Depression,Tangerang,60,0.85,2025-03-23
+D019,Depression,Tangerang,109,0.43,2025-03-18
+D019,Depression,Tangerang,112,0.47,2025-03-13
+D019,Depression,Tangerang,24,0.27,2025-03-08
+D019,Depression,Tangerang,139,0.6,2025-03-03
+D019,Depression,Tangerang,41,0.66,2025-02-26
+D019,Depression,Tangerang,64,0.24,2025-02-21
+D019,Depression,Tangerang,108,0.31,2025-02-16
+D019,Depression,Tangerang,118,0.6,2025-02-11
+D019,Depression,Tangerang,125,0.94,2025-02-06
+D019,Depression,Tangerang,91,0.82,2025-02-01
+D019,Depression,Tangerang,95,0.65,2025-01-27
+D019,Depression,Tangerang,20,0.92,2025-01-22
+D019,Depression,Tangerang,39,0.87,2025-01-17
+D019,Depression,Tangerang,116,0.56,2025-01-12
+D019,Depression,Tangerang,145,0.73,2025-01-07
+D019,Depression,Tangerang,29,0.44,2025-01-02
+D019,Depression,Tangerang,76,0.61,2024-12-28
+D019,Depression,Tangerang,135,0.38,2024-12-23
+D019,Depression,Tangerang,89,0.42,2024-12-18
+D020,Anxiety,Tangerang,83,0.85,2025-03-23
+D020,Anxiety,Tangerang,141,0.64,2025-03-18
+D020,Anxiety,Tangerang,68,0.28,2025-03-13
+D020,Anxiety,Tangerang,137,0.22,2025-03-08
+D020,Anxiety,Tangerang,91,0.26,2025-03-03
+D020,Anxiety,Tangerang,93,0.81,2025-02-26
+D020,Anxiety,Tangerang,140,0.81,2025-02-21
+D020,Anxiety,Tangerang,19,0.39,2025-02-16
+D020,Anxiety,Tangerang,85,0.43,2025-02-11
+D020,Anxiety,Tangerang,132,0.52,2025-02-06
+D020,Anxiety,Tangerang,104,0.51,2025-02-01
+D020,Anxiety,Tangerang,92,0.41,2025-01-27
+D020,Anxiety,Tangerang,99,0.61,2025-01-22
+D020,Anxiety,Tangerang,127,0.42,2025-01-17
+D020,Anxiety,Tangerang,84,0.62,2025-01-12
+D020,Anxiety,Tangerang,28,0.22,2025-01-07
+D020,Anxiety,Tangerang,120,0.67,2025-01-02
+D020,Anxiety,Tangerang,117,0.54,2024-12-28
+D020,Anxiety,Tangerang,102,0.93,2024-12-23
+D020,Anxiety,Tangerang,105,0.42,2024-12-18
