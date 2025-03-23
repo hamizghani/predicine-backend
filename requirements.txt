@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aiobotocore==2.12.3
 aiohappyeyeballs==2.4.0
 aiohttp==3.10.5
@@ -380,3 +381,8 @@ zict==3.0.0
 zipp==3.17.0
 zope.interface==5.4.0
 zstandard==0.23.0
+=======
+pandas
+numpy
+fastapi[standard]
+>>>>>>> 832c18a330929687ea04c662810095f255af0c10
