@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from functools import lru_cache
 
 import prediction
-from models import PredictionInput
+from models import PredictionInput, PredictionInternalInput
 
 app = FastAPI()
 
@@ -55,5 +55,9 @@ def get_inventory(username: str):
     return JSONResponse(prediction.get_inventory(username))
 
 @app.post('/v1/inventory/predict')
-def predict_by_inventory(predictionInput: Annotated[PredictionInput, Body(embed=True)]):
-    return JSONResponse({'status':"SUCCESS", 'data':"TODO"})
+def predict_by_inventory(predictionInput: Annotated[PredictionInternalInput, Body(embed=True)]):
+    try:
+        prediction_output = prediction.infer_stockout(predictionInput)
+        return JSONResponse({'status':"success", 'data':prediction_output})
+    except Exception as e:
+        return JSONResponse({'status':'error', 'error': str(e)}, status_code=500)

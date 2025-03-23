@@ -67,3 +67,14 @@ class PredictionInput(BaseModel):
     user_category: str
     avg_visitor_weekly: int
     medicines: list[ProductPredictionInput]
+
+
+class PredictionInternalInput(BaseModel):
+    user: str
+    user_category: Literal['Hospital', 'Apotics']
+    zone: str
+    medicine_name: str
+    stock: int
+    record_timestamp: str = "23/03/25" # datetime like
+    avg_visitor_weekly: int
+    price: float
