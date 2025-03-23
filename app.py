@@ -3,12 +3,21 @@ import json
 from typing import Annotated
 from fastapi import Body, FastAPI
 from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 from functools import lru_cache
 
 import prediction
 from models import PredictionInput
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 def transform_to_rechartsable(data: dict):
     res = {}
@@ -24,7 +33,7 @@ def transform_to_rechartsable(data: dict):
         for k in avgs:
             res[k] = res.get(k, {})
             res[k].update({disease: avgs[k]//locationCount})
-    recordified = [{'timestamp': timestamp,**dataentry} for timestamp, dataentry in res.items()]
+    recordified = sorted([{'timestamp': timestamp,**dataentry} for timestamp, dataentry in res.items()], key=lambda e:datetime.strptime(e['timestamp'], '%Y-%m-%d'))
     return recordified
 
 @lru_cache
