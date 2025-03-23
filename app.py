@@ -24,7 +24,7 @@ def transform_to_rechartsable(data: dict):
         for k in avgs:
             res[k] = res.get(k, {})
             res[k].update({disease: avgs[k]//locationCount})
-    recordified = [{'timestamp': datetime.strptime(timestamp, "%Y-%m-%d").isoformat(),**dataentry} for timestamp, dataentry in res.items()]
+    recordified = [{'timestamp': timestamp,**dataentry} for timestamp, dataentry in res.items()]
     return recordified
 
 @lru_cache
