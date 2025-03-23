@@ -33,9 +33,13 @@ def get_disease_rechartable(filename: str):
         data = json.load(f)
         return transform_to_rechartsable(data)
 
+
 @app.get('/v1/disease')
 def get_disease():
-    return JSONResponse(get_disease_rechartable('disease.json'))
+    chartable_data = get_disease_rechartable('disease.json')
+    trending_diseases = sorted([(v,k) for k,v in chartable_data[-1].items() if k!='timestamp'], reverse=True)
+    trending_disease_names = [e[1] for e in trending_diseases[:3]]
+    return JSONResponse({'trending_diseases': trending_disease_names, 'data':chartable_data})
 
 @app.get('/v1/inventory')
 def get_inventory(username: str):
